@@ -1,0 +1,8 @@
+Field,Altitude,N dates,HP threshold,High Priority%,Monitor%,Recovered%,Ring R2,Bias note
+F12,LA,4,3/4,13.2,17.6,69.2,0.728,LA model: +20.3% positive bias — High Priority zone may be conservative
+F12,HA,6,4/6,21.4,30.0,48.6,0.366,"HA model: −2.5% bias — near-zero, high confidence"
+EXP2,LA,8,6/8,15.8,29.7,54.5,0.716,LA model: +15.9% positive bias — High Priority zone may be conservative
+EXP2,HA,6,4/6,20.3,41.1,38.6,0.432,"HA model: +12.3% bias — small field, interpret with caution"
+F17,LA,5,4/5,6.3,17.6,76.1,0.825,"LA model: +10.5% positive bias — R²=0.825, highest in study"
+F17,HA,5,4/5,14.5,24.3,61.2,0.718,"HA model: −4.0% bias — near-zero, high confidence"
+F21,HA,3,2/3,70.8,11.6,17.6,0.727,"HA model: +2.3% bias — near-zero, high confidence. LA excluded: p=0.082 not significant"

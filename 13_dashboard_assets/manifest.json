@@ -1,0 +1,3616 @@
+{
+  "rgb": [
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250423",
+      "mission": "20250423_RBD_REPAR_F12_HA",
+      "path": "rgb_thumbnails/F12/20250423_RBD_REPAR_F12_HA_rgb.jpg"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250423",
+      "mission": "20250423_RBD_REPAR_F12_LA",
+      "path": "rgb_thumbnails/F12/20250423_RBD_REPAR_F12_LA_rgb.jpg"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250429",
+      "mission": "20250429_RBD_REPAR_F12_HA",
+      "path": "rgb_thumbnails/F12/20250429_RBD_REPAR_F12_HA_rgb.jpg"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250429",
+      "mission": "20250429_RBD_REPAR_F12_LA",
+      "path": "rgb_thumbnails/F12/20250429_RBD_REPAR_F12_LA_rgb.jpg"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F17_HA",
+      "path": "rgb_thumbnails/F17/20250503_RBD_REPAR_F17_HA_rgb.jpg"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F17_LA",
+      "path": "rgb_thumbnails/F17/20250503_RBD_REPAR_F17_LA_rgb.jpg"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F21_HA",
+      "path": "rgb_thumbnails/F21/20250503_RBD_REPAR_F21_HA_rgb.jpg"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F21_LA",
+      "path": "rgb_thumbnails/F21/20250503_RBD_REPAR_F21_LA_rgb.jpg"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_exp2_HA",
+      "path": "rgb_thumbnails/EXP2/20250503_RBD_REPAR_exp2_HA_rgb.jpg"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_exp2_LA",
+      "path": "rgb_thumbnails/EXP2/20250503_RBD_REPAR_exp2_LA_rgb.jpg"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F12_HA",
+      "path": "rgb_thumbnails/F12/20250508_RBD_REPAR_F12_HA_rgb.jpg"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F17_HA",
+      "path": "rgb_thumbnails/F17/20250508_RBD_REPAR_F17_HA_rgb.jpg"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F17_LA",
+      "path": "rgb_thumbnails/F17/20250508_RBD_REPAR_F17_LA_rgb.jpg"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F21_HA",
+      "path": "rgb_thumbnails/F21/20250508_RBD_REPAR_F21_HA_rgb.jpg"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F21_LA",
+      "path": "rgb_thumbnails/F21/20250508_RBD_REPAR_F21_LA_rgb.jpg"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp1_HA",
+      "path": "rgb_thumbnails/EXP1/20250508_RBD_REPAR_exp1_HA_rgb.jpg"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp1_LA",
+      "path": "rgb_thumbnails/EXP1/20250508_RBD_REPAR_exp1_LA_rgb.jpg"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp2_HA",
+      "path": "rgb_thumbnails/EXP2/20250508_RBD_REPAR_exp2_HA_rgb.jpg"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp2_LA",
+      "path": "rgb_thumbnails/EXP2/20250508_RBD_REPAR_exp2_LA_rgb.jpg"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F12_HA",
+      "path": "rgb_thumbnails/F12/20250513_RBD_REPAR_F12_HA_rgb.jpg"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F12_LA",
+      "path": "rgb_thumbnails/F12/20250513_RBD_REPAR_F12_LA_rgb.jpg"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F17_HA",
+      "path": "rgb_thumbnails/F17/20250513_RBD_REPAR_F17_HA_rgb.jpg"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F17_LA",
+      "path": "rgb_thumbnails/F17/20250513_RBD_REPAR_F17_LA_rgb.jpg"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp1_HA",
+      "path": "rgb_thumbnails/EXP1/20250513_RBD_REPAR_exp1_HA_rgb.jpg"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp1_LA",
+      "path": "rgb_thumbnails/EXP1/20250513_RBD_REPAR_exp1_LA_rgb.jpg"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp2_HA",
+      "path": "rgb_thumbnails/EXP2/20250513_RBD_REPAR_exp2_HA_rgb.jpg"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp2_LA",
+      "path": "rgb_thumbnails/EXP2/20250513_RBD_REPAR_exp2_LA_rgb.jpg"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F12_HA",
+      "path": "rgb_thumbnails/F12/20250519_RBD_REPAR_F12_HA_rgb.jpg"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F17_HA",
+      "path": "rgb_thumbnails/F17/20250519_RBD_REPAR_F17_HA_rgb.jpg"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F17_LA",
+      "path": "rgb_thumbnails/F17/20250519_RBD_REPAR_F17_LA_rgb.jpg"
+    },
+    {
+      "field": "F17B",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F17b_LA",
+      "path": "rgb_thumbnails/F17B/20250519_RBD_REPAR_F17b_LA_rgb.jpg"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_exp1_HA",
+      "path": "rgb_thumbnails/EXP1/20250519_RBD_REPAR_exp1_HA_rgb.jpg"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_exp1_LA",
+      "path": "rgb_thumbnails/EXP1/20250519_RBD_REPAR_exp1_LA_rgb.jpg"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_exp2_LA",
+      "path": "rgb_thumbnails/EXP2/20250519_RBD_REPAR_exp2_LA_rgb.jpg"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250520",
+      "mission": "20250520_RBD_REPAR_F21_HA",
+      "path": "rgb_thumbnails/F21/20250520_RBD_REPAR_F21_HA_rgb.jpg"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250520",
+      "mission": "20250520_RBD_REPAR_F21_LA",
+      "path": "rgb_thumbnails/F21/20250520_RBD_REPAR_F21_LA_rgb.jpg"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F12_HA",
+      "path": "rgb_thumbnails/F12/20250525_RBD_REPAR_F12_HA_rgb.jpg"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F12_LA",
+      "path": "rgb_thumbnails/F12/20250525_RBD_REPAR_F12_LA_rgb.jpg"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F17_HA",
+      "path": "rgb_thumbnails/F17/20250525_RBD_REPAR_F17_HA_rgb.jpg"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F17_LA",
+      "path": "rgb_thumbnails/F17/20250525_RBD_REPAR_F17_LA_rgb.jpg"
+    },
+    {
+      "field": "F17B",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F17b_LA",
+      "path": "rgb_thumbnails/F17B/20250525_RBD_REPAR_F17b_LA_rgb.jpg"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp1_HA",
+      "path": "rgb_thumbnails/EXP1/20250525_RBD_REPAR_exp1_HA_rgb.jpg"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp1_LA",
+      "path": "rgb_thumbnails/EXP1/20250525_RBD_REPAR_exp1_LA_rgb.jpg"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp2_HA",
+      "path": "rgb_thumbnails/EXP2/20250525_RBD_REPAR_exp2_HA_rgb.jpg"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp2_LA",
+      "path": "rgb_thumbnails/EXP2/20250525_RBD_REPAR_exp2_LA_rgb.jpg"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp1_HA",
+      "path": "rgb_thumbnails/EXP1/20250530_RBD_REPAR_exp1_HA_rgb.jpg"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp1_LA",
+      "path": "rgb_thumbnails/EXP1/20250530_RBD_REPAR_exp1_LA_rgb.jpg"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp2_HA",
+      "path": "rgb_thumbnails/EXP2/20250530_RBD_REPAR_exp2_HA_rgb.jpg"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp2_LA",
+      "path": "rgb_thumbnails/EXP2/20250530_RBD_REPAR_exp2_LA_rgb.jpg"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250605",
+      "mission": "20250605_RBD_Vallreparera_exp1_HA",
+      "path": "rgb_thumbnails/EXP1/20250605_RBD_Vallreparera_exp1_HA_rgb.jpg"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250605",
+      "mission": "20250605_RBD_Vallreparera_exp1_LA",
+      "path": "rgb_thumbnails/EXP1/20250605_RBD_Vallreparera_exp1_LA_rgb.jpg"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250605",
+      "mission": "20250605_RBD_Vallreparera_exp2_LA",
+      "path": "rgb_thumbnails/EXP2/20250605_RBD_Vallreparera_exp2_LA_rgb.jpg"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp1_HA",
+      "path": "rgb_thumbnails/EXP1/20250611_RBD_REPAR_exp1_HA_rgb.jpg"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp1_LA",
+      "path": "rgb_thumbnails/EXP1/20250611_RBD_REPAR_exp1_LA_rgb.jpg"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp2_HA",
+      "path": "rgb_thumbnails/EXP2/20250611_RBD_REPAR_exp2_HA_rgb.jpg"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp2_LA",
+      "path": "rgb_thumbnails/EXP2/20250611_RBD_REPAR_exp2_LA_rgb.jpg"
+    }
+  ],
+  "indices": [
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250423",
+      "mission": "20250423_RBD_REPAR_F12_HA",
+      "index": "ExG",
+      "path": "index_maps/F12/20250423_RBD_REPAR_F12_HA_ExG.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250423",
+      "mission": "20250423_RBD_REPAR_F12_HA",
+      "index": "GNDVI",
+      "path": "index_maps/F12/20250423_RBD_REPAR_F12_HA_GNDVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250423",
+      "mission": "20250423_RBD_REPAR_F12_HA",
+      "index": "NDRE",
+      "path": "index_maps/F12/20250423_RBD_REPAR_F12_HA_NDRE.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250423",
+      "mission": "20250423_RBD_REPAR_F12_HA",
+      "index": "NDVI",
+      "path": "index_maps/F12/20250423_RBD_REPAR_F12_HA_NDVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250423",
+      "mission": "20250423_RBD_REPAR_F12_HA",
+      "index": "OSAVI",
+      "path": "index_maps/F12/20250423_RBD_REPAR_F12_HA_OSAVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250423",
+      "mission": "20250423_RBD_REPAR_F12_HA",
+      "index": "VARI",
+      "path": "index_maps/F12/20250423_RBD_REPAR_F12_HA_VARI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250423",
+      "mission": "20250423_RBD_REPAR_F12_LA",
+      "index": "ExG",
+      "path": "index_maps/F12/20250423_RBD_REPAR_F12_LA_ExG.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250423",
+      "mission": "20250423_RBD_REPAR_F12_LA",
+      "index": "GNDVI",
+      "path": "index_maps/F12/20250423_RBD_REPAR_F12_LA_GNDVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250423",
+      "mission": "20250423_RBD_REPAR_F12_LA",
+      "index": "NDRE",
+      "path": "index_maps/F12/20250423_RBD_REPAR_F12_LA_NDRE.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250423",
+      "mission": "20250423_RBD_REPAR_F12_LA",
+      "index": "NDVI",
+      "path": "index_maps/F12/20250423_RBD_REPAR_F12_LA_NDVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250423",
+      "mission": "20250423_RBD_REPAR_F12_LA",
+      "index": "OSAVI",
+      "path": "index_maps/F12/20250423_RBD_REPAR_F12_LA_OSAVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250423",
+      "mission": "20250423_RBD_REPAR_F12_LA",
+      "index": "VARI",
+      "path": "index_maps/F12/20250423_RBD_REPAR_F12_LA_VARI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250429",
+      "mission": "20250429_RBD_REPAR_F12_HA",
+      "index": "ExG",
+      "path": "index_maps/F12/20250429_RBD_REPAR_F12_HA_ExG.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250429",
+      "mission": "20250429_RBD_REPAR_F12_HA",
+      "index": "GNDVI",
+      "path": "index_maps/F12/20250429_RBD_REPAR_F12_HA_GNDVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250429",
+      "mission": "20250429_RBD_REPAR_F12_HA",
+      "index": "NDRE",
+      "path": "index_maps/F12/20250429_RBD_REPAR_F12_HA_NDRE.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250429",
+      "mission": "20250429_RBD_REPAR_F12_HA",
+      "index": "NDVI",
+      "path": "index_maps/F12/20250429_RBD_REPAR_F12_HA_NDVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250429",
+      "mission": "20250429_RBD_REPAR_F12_HA",
+      "index": "OSAVI",
+      "path": "index_maps/F12/20250429_RBD_REPAR_F12_HA_OSAVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250429",
+      "mission": "20250429_RBD_REPAR_F12_HA",
+      "index": "VARI",
+      "path": "index_maps/F12/20250429_RBD_REPAR_F12_HA_VARI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250429",
+      "mission": "20250429_RBD_REPAR_F12_LA",
+      "index": "ExG",
+      "path": "index_maps/F12/20250429_RBD_REPAR_F12_LA_ExG.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250429",
+      "mission": "20250429_RBD_REPAR_F12_LA",
+      "index": "GNDVI",
+      "path": "index_maps/F12/20250429_RBD_REPAR_F12_LA_GNDVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250429",
+      "mission": "20250429_RBD_REPAR_F12_LA",
+      "index": "NDRE",
+      "path": "index_maps/F12/20250429_RBD_REPAR_F12_LA_NDRE.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250429",
+      "mission": "20250429_RBD_REPAR_F12_LA",
+      "index": "NDVI",
+      "path": "index_maps/F12/20250429_RBD_REPAR_F12_LA_NDVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250429",
+      "mission": "20250429_RBD_REPAR_F12_LA",
+      "index": "OSAVI",
+      "path": "index_maps/F12/20250429_RBD_REPAR_F12_LA_OSAVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250429",
+      "mission": "20250429_RBD_REPAR_F12_LA",
+      "index": "VARI",
+      "path": "index_maps/F12/20250429_RBD_REPAR_F12_LA_VARI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F17_HA",
+      "index": "ExG",
+      "path": "index_maps/F17/20250503_RBD_REPAR_F17_HA_ExG.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F17_HA",
+      "index": "GNDVI",
+      "path": "index_maps/F17/20250503_RBD_REPAR_F17_HA_GNDVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F17_HA",
+      "index": "NDRE",
+      "path": "index_maps/F17/20250503_RBD_REPAR_F17_HA_NDRE.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F17_HA",
+      "index": "NDVI",
+      "path": "index_maps/F17/20250503_RBD_REPAR_F17_HA_NDVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F17_HA",
+      "index": "OSAVI",
+      "path": "index_maps/F17/20250503_RBD_REPAR_F17_HA_OSAVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F17_HA",
+      "index": "VARI",
+      "path": "index_maps/F17/20250503_RBD_REPAR_F17_HA_VARI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F17_LA",
+      "index": "ExG",
+      "path": "index_maps/F17/20250503_RBD_REPAR_F17_LA_ExG.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F17_LA",
+      "index": "GNDVI",
+      "path": "index_maps/F17/20250503_RBD_REPAR_F17_LA_GNDVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F17_LA",
+      "index": "NDRE",
+      "path": "index_maps/F17/20250503_RBD_REPAR_F17_LA_NDRE.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F17_LA",
+      "index": "NDVI",
+      "path": "index_maps/F17/20250503_RBD_REPAR_F17_LA_NDVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F17_LA",
+      "index": "OSAVI",
+      "path": "index_maps/F17/20250503_RBD_REPAR_F17_LA_OSAVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F17_LA",
+      "index": "VARI",
+      "path": "index_maps/F17/20250503_RBD_REPAR_F17_LA_VARI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F21_HA",
+      "index": "ExG",
+      "path": "index_maps/F21/20250503_RBD_REPAR_F21_HA_ExG.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F21_HA",
+      "index": "GNDVI",
+      "path": "index_maps/F21/20250503_RBD_REPAR_F21_HA_GNDVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F21_HA",
+      "index": "NDRE",
+      "path": "index_maps/F21/20250503_RBD_REPAR_F21_HA_NDRE.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F21_HA",
+      "index": "NDVI",
+      "path": "index_maps/F21/20250503_RBD_REPAR_F21_HA_NDVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F21_HA",
+      "index": "OSAVI",
+      "path": "index_maps/F21/20250503_RBD_REPAR_F21_HA_OSAVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F21_HA",
+      "index": "VARI",
+      "path": "index_maps/F21/20250503_RBD_REPAR_F21_HA_VARI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F21_LA",
+      "index": "ExG",
+      "path": "index_maps/F21/20250503_RBD_REPAR_F21_LA_ExG.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F21_LA",
+      "index": "GNDVI",
+      "path": "index_maps/F21/20250503_RBD_REPAR_F21_LA_GNDVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F21_LA",
+      "index": "NDRE",
+      "path": "index_maps/F21/20250503_RBD_REPAR_F21_LA_NDRE.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F21_LA",
+      "index": "NDVI",
+      "path": "index_maps/F21/20250503_RBD_REPAR_F21_LA_NDVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F21_LA",
+      "index": "OSAVI",
+      "path": "index_maps/F21/20250503_RBD_REPAR_F21_LA_OSAVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_F21_LA",
+      "index": "VARI",
+      "path": "index_maps/F21/20250503_RBD_REPAR_F21_LA_VARI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_exp2_HA",
+      "index": "ExG",
+      "path": "index_maps/EXP2/20250503_RBD_REPAR_exp2_HA_ExG.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_exp2_HA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP2/20250503_RBD_REPAR_exp2_HA_GNDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_exp2_HA",
+      "index": "NDRE",
+      "path": "index_maps/EXP2/20250503_RBD_REPAR_exp2_HA_NDRE.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_exp2_HA",
+      "index": "NDVI",
+      "path": "index_maps/EXP2/20250503_RBD_REPAR_exp2_HA_NDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_exp2_HA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP2/20250503_RBD_REPAR_exp2_HA_OSAVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_exp2_HA",
+      "index": "VARI",
+      "path": "index_maps/EXP2/20250503_RBD_REPAR_exp2_HA_VARI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_exp2_LA",
+      "index": "ExG",
+      "path": "index_maps/EXP2/20250503_RBD_REPAR_exp2_LA_ExG.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_exp2_LA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP2/20250503_RBD_REPAR_exp2_LA_GNDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_exp2_LA",
+      "index": "NDRE",
+      "path": "index_maps/EXP2/20250503_RBD_REPAR_exp2_LA_NDRE.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_exp2_LA",
+      "index": "NDVI",
+      "path": "index_maps/EXP2/20250503_RBD_REPAR_exp2_LA_NDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_exp2_LA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP2/20250503_RBD_REPAR_exp2_LA_OSAVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250503",
+      "mission": "20250503_RBD_REPAR_exp2_LA",
+      "index": "VARI",
+      "path": "index_maps/EXP2/20250503_RBD_REPAR_exp2_LA_VARI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F12_HA",
+      "index": "ExG",
+      "path": "index_maps/F12/20250508_RBD_REPAR_F12_HA_ExG.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F12_HA",
+      "index": "GNDVI",
+      "path": "index_maps/F12/20250508_RBD_REPAR_F12_HA_GNDVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F12_HA",
+      "index": "NDRE",
+      "path": "index_maps/F12/20250508_RBD_REPAR_F12_HA_NDRE.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F12_HA",
+      "index": "NDVI",
+      "path": "index_maps/F12/20250508_RBD_REPAR_F12_HA_NDVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F12_HA",
+      "index": "OSAVI",
+      "path": "index_maps/F12/20250508_RBD_REPAR_F12_HA_OSAVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F12_HA",
+      "index": "VARI",
+      "path": "index_maps/F12/20250508_RBD_REPAR_F12_HA_VARI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F17_HA",
+      "index": "ExG",
+      "path": "index_maps/F17/20250508_RBD_REPAR_F17_HA_ExG.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F17_HA",
+      "index": "GNDVI",
+      "path": "index_maps/F17/20250508_RBD_REPAR_F17_HA_GNDVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F17_HA",
+      "index": "NDRE",
+      "path": "index_maps/F17/20250508_RBD_REPAR_F17_HA_NDRE.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F17_HA",
+      "index": "NDVI",
+      "path": "index_maps/F17/20250508_RBD_REPAR_F17_HA_NDVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F17_HA",
+      "index": "OSAVI",
+      "path": "index_maps/F17/20250508_RBD_REPAR_F17_HA_OSAVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F17_HA",
+      "index": "VARI",
+      "path": "index_maps/F17/20250508_RBD_REPAR_F17_HA_VARI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F17_LA",
+      "index": "ExG",
+      "path": "index_maps/F17/20250508_RBD_REPAR_F17_LA_ExG.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F17_LA",
+      "index": "GNDVI",
+      "path": "index_maps/F17/20250508_RBD_REPAR_F17_LA_GNDVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F17_LA",
+      "index": "NDRE",
+      "path": "index_maps/F17/20250508_RBD_REPAR_F17_LA_NDRE.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F17_LA",
+      "index": "NDVI",
+      "path": "index_maps/F17/20250508_RBD_REPAR_F17_LA_NDVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F17_LA",
+      "index": "OSAVI",
+      "path": "index_maps/F17/20250508_RBD_REPAR_F17_LA_OSAVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F17_LA",
+      "index": "VARI",
+      "path": "index_maps/F17/20250508_RBD_REPAR_F17_LA_VARI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F21_HA",
+      "index": "ExG",
+      "path": "index_maps/F21/20250508_RBD_REPAR_F21_HA_ExG.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F21_HA",
+      "index": "GNDVI",
+      "path": "index_maps/F21/20250508_RBD_REPAR_F21_HA_GNDVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F21_HA",
+      "index": "NDRE",
+      "path": "index_maps/F21/20250508_RBD_REPAR_F21_HA_NDRE.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F21_HA",
+      "index": "NDVI",
+      "path": "index_maps/F21/20250508_RBD_REPAR_F21_HA_NDVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F21_HA",
+      "index": "OSAVI",
+      "path": "index_maps/F21/20250508_RBD_REPAR_F21_HA_OSAVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F21_HA",
+      "index": "VARI",
+      "path": "index_maps/F21/20250508_RBD_REPAR_F21_HA_VARI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F21_LA",
+      "index": "ExG",
+      "path": "index_maps/F21/20250508_RBD_REPAR_F21_LA_ExG.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F21_LA",
+      "index": "GNDVI",
+      "path": "index_maps/F21/20250508_RBD_REPAR_F21_LA_GNDVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F21_LA",
+      "index": "NDRE",
+      "path": "index_maps/F21/20250508_RBD_REPAR_F21_LA_NDRE.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F21_LA",
+      "index": "NDVI",
+      "path": "index_maps/F21/20250508_RBD_REPAR_F21_LA_NDVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F21_LA",
+      "index": "OSAVI",
+      "path": "index_maps/F21/20250508_RBD_REPAR_F21_LA_OSAVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_F21_LA",
+      "index": "VARI",
+      "path": "index_maps/F21/20250508_RBD_REPAR_F21_LA_VARI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp1_HA",
+      "index": "ExG",
+      "path": "index_maps/EXP1/20250508_RBD_REPAR_exp1_HA_ExG.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp1_HA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP1/20250508_RBD_REPAR_exp1_HA_GNDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp1_HA",
+      "index": "NDRE",
+      "path": "index_maps/EXP1/20250508_RBD_REPAR_exp1_HA_NDRE.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp1_HA",
+      "index": "NDVI",
+      "path": "index_maps/EXP1/20250508_RBD_REPAR_exp1_HA_NDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp1_HA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP1/20250508_RBD_REPAR_exp1_HA_OSAVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp1_HA",
+      "index": "VARI",
+      "path": "index_maps/EXP1/20250508_RBD_REPAR_exp1_HA_VARI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp1_LA",
+      "index": "ExG",
+      "path": "index_maps/EXP1/20250508_RBD_REPAR_exp1_LA_ExG.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp1_LA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP1/20250508_RBD_REPAR_exp1_LA_GNDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp1_LA",
+      "index": "NDRE",
+      "path": "index_maps/EXP1/20250508_RBD_REPAR_exp1_LA_NDRE.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp1_LA",
+      "index": "NDVI",
+      "path": "index_maps/EXP1/20250508_RBD_REPAR_exp1_LA_NDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp1_LA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP1/20250508_RBD_REPAR_exp1_LA_OSAVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp1_LA",
+      "index": "VARI",
+      "path": "index_maps/EXP1/20250508_RBD_REPAR_exp1_LA_VARI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp2_HA",
+      "index": "ExG",
+      "path": "index_maps/EXP2/20250508_RBD_REPAR_exp2_HA_ExG.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp2_HA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP2/20250508_RBD_REPAR_exp2_HA_GNDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp2_HA",
+      "index": "NDRE",
+      "path": "index_maps/EXP2/20250508_RBD_REPAR_exp2_HA_NDRE.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp2_HA",
+      "index": "NDVI",
+      "path": "index_maps/EXP2/20250508_RBD_REPAR_exp2_HA_NDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp2_HA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP2/20250508_RBD_REPAR_exp2_HA_OSAVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp2_HA",
+      "index": "VARI",
+      "path": "index_maps/EXP2/20250508_RBD_REPAR_exp2_HA_VARI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp2_LA",
+      "index": "ExG",
+      "path": "index_maps/EXP2/20250508_RBD_REPAR_exp2_LA_ExG.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp2_LA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP2/20250508_RBD_REPAR_exp2_LA_GNDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp2_LA",
+      "index": "NDRE",
+      "path": "index_maps/EXP2/20250508_RBD_REPAR_exp2_LA_NDRE.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp2_LA",
+      "index": "NDVI",
+      "path": "index_maps/EXP2/20250508_RBD_REPAR_exp2_LA_NDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp2_LA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP2/20250508_RBD_REPAR_exp2_LA_OSAVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250508",
+      "mission": "20250508_RBD_REPAR_exp2_LA",
+      "index": "VARI",
+      "path": "index_maps/EXP2/20250508_RBD_REPAR_exp2_LA_VARI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F12_HA",
+      "index": "ExG",
+      "path": "index_maps/F12/20250513_RBD_REPAR_F12_HA_ExG.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F12_HA",
+      "index": "GNDVI",
+      "path": "index_maps/F12/20250513_RBD_REPAR_F12_HA_GNDVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F12_HA",
+      "index": "NDRE",
+      "path": "index_maps/F12/20250513_RBD_REPAR_F12_HA_NDRE.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F12_HA",
+      "index": "NDVI",
+      "path": "index_maps/F12/20250513_RBD_REPAR_F12_HA_NDVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F12_HA",
+      "index": "OSAVI",
+      "path": "index_maps/F12/20250513_RBD_REPAR_F12_HA_OSAVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F12_HA",
+      "index": "VARI",
+      "path": "index_maps/F12/20250513_RBD_REPAR_F12_HA_VARI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F12_LA",
+      "index": "ExG",
+      "path": "index_maps/F12/20250513_RBD_REPAR_F12_LA_ExG.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F12_LA",
+      "index": "GNDVI",
+      "path": "index_maps/F12/20250513_RBD_REPAR_F12_LA_GNDVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F12_LA",
+      "index": "NDRE",
+      "path": "index_maps/F12/20250513_RBD_REPAR_F12_LA_NDRE.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F12_LA",
+      "index": "NDVI",
+      "path": "index_maps/F12/20250513_RBD_REPAR_F12_LA_NDVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F12_LA",
+      "index": "OSAVI",
+      "path": "index_maps/F12/20250513_RBD_REPAR_F12_LA_OSAVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F12_LA",
+      "index": "VARI",
+      "path": "index_maps/F12/20250513_RBD_REPAR_F12_LA_VARI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F17_HA",
+      "index": "ExG",
+      "path": "index_maps/F17/20250513_RBD_REPAR_F17_HA_ExG.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F17_HA",
+      "index": "GNDVI",
+      "path": "index_maps/F17/20250513_RBD_REPAR_F17_HA_GNDVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F17_HA",
+      "index": "NDRE",
+      "path": "index_maps/F17/20250513_RBD_REPAR_F17_HA_NDRE.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F17_HA",
+      "index": "NDVI",
+      "path": "index_maps/F17/20250513_RBD_REPAR_F17_HA_NDVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F17_HA",
+      "index": "OSAVI",
+      "path": "index_maps/F17/20250513_RBD_REPAR_F17_HA_OSAVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F17_HA",
+      "index": "VARI",
+      "path": "index_maps/F17/20250513_RBD_REPAR_F17_HA_VARI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F17_LA",
+      "index": "ExG",
+      "path": "index_maps/F17/20250513_RBD_REPAR_F17_LA_ExG.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F17_LA",
+      "index": "GNDVI",
+      "path": "index_maps/F17/20250513_RBD_REPAR_F17_LA_GNDVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F17_LA",
+      "index": "NDRE",
+      "path": "index_maps/F17/20250513_RBD_REPAR_F17_LA_NDRE.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F17_LA",
+      "index": "NDVI",
+      "path": "index_maps/F17/20250513_RBD_REPAR_F17_LA_NDVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F17_LA",
+      "index": "OSAVI",
+      "path": "index_maps/F17/20250513_RBD_REPAR_F17_LA_OSAVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_F17_LA",
+      "index": "VARI",
+      "path": "index_maps/F17/20250513_RBD_REPAR_F17_LA_VARI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp1_HA",
+      "index": "ExG",
+      "path": "index_maps/EXP1/20250513_RBD_REPAR_exp1_HA_ExG.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp1_HA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP1/20250513_RBD_REPAR_exp1_HA_GNDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp1_HA",
+      "index": "NDRE",
+      "path": "index_maps/EXP1/20250513_RBD_REPAR_exp1_HA_NDRE.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp1_HA",
+      "index": "NDVI",
+      "path": "index_maps/EXP1/20250513_RBD_REPAR_exp1_HA_NDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp1_HA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP1/20250513_RBD_REPAR_exp1_HA_OSAVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp1_HA",
+      "index": "VARI",
+      "path": "index_maps/EXP1/20250513_RBD_REPAR_exp1_HA_VARI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp1_LA",
+      "index": "ExG",
+      "path": "index_maps/EXP1/20250513_RBD_REPAR_exp1_LA_ExG.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp1_LA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP1/20250513_RBD_REPAR_exp1_LA_GNDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp1_LA",
+      "index": "NDRE",
+      "path": "index_maps/EXP1/20250513_RBD_REPAR_exp1_LA_NDRE.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp1_LA",
+      "index": "NDVI",
+      "path": "index_maps/EXP1/20250513_RBD_REPAR_exp1_LA_NDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp1_LA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP1/20250513_RBD_REPAR_exp1_LA_OSAVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp1_LA",
+      "index": "VARI",
+      "path": "index_maps/EXP1/20250513_RBD_REPAR_exp1_LA_VARI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp2_HA",
+      "index": "ExG",
+      "path": "index_maps/EXP2/20250513_RBD_REPAR_exp2_HA_ExG.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp2_HA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP2/20250513_RBD_REPAR_exp2_HA_GNDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp2_HA",
+      "index": "NDRE",
+      "path": "index_maps/EXP2/20250513_RBD_REPAR_exp2_HA_NDRE.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp2_HA",
+      "index": "NDVI",
+      "path": "index_maps/EXP2/20250513_RBD_REPAR_exp2_HA_NDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp2_HA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP2/20250513_RBD_REPAR_exp2_HA_OSAVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp2_HA",
+      "index": "VARI",
+      "path": "index_maps/EXP2/20250513_RBD_REPAR_exp2_HA_VARI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp2_LA",
+      "index": "ExG",
+      "path": "index_maps/EXP2/20250513_RBD_REPAR_exp2_LA_ExG.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp2_LA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP2/20250513_RBD_REPAR_exp2_LA_GNDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp2_LA",
+      "index": "NDRE",
+      "path": "index_maps/EXP2/20250513_RBD_REPAR_exp2_LA_NDRE.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp2_LA",
+      "index": "NDVI",
+      "path": "index_maps/EXP2/20250513_RBD_REPAR_exp2_LA_NDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp2_LA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP2/20250513_RBD_REPAR_exp2_LA_OSAVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250513",
+      "mission": "20250513_RBD_REPAR_exp2_LA",
+      "index": "VARI",
+      "path": "index_maps/EXP2/20250513_RBD_REPAR_exp2_LA_VARI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250515",
+      "mission": "20250515_RBD_REPAR_F21_HA",
+      "index": "ExG",
+      "path": "index_maps/F21/20250515_RBD_REPAR_F21_HA_ExG.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250515",
+      "mission": "20250515_RBD_REPAR_F21_HA",
+      "index": "GNDVI",
+      "path": "index_maps/F21/20250515_RBD_REPAR_F21_HA_GNDVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250515",
+      "mission": "20250515_RBD_REPAR_F21_HA",
+      "index": "NDRE",
+      "path": "index_maps/F21/20250515_RBD_REPAR_F21_HA_NDRE.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250515",
+      "mission": "20250515_RBD_REPAR_F21_HA",
+      "index": "NDVI",
+      "path": "index_maps/F21/20250515_RBD_REPAR_F21_HA_NDVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250515",
+      "mission": "20250515_RBD_REPAR_F21_HA",
+      "index": "OSAVI",
+      "path": "index_maps/F21/20250515_RBD_REPAR_F21_HA_OSAVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250515",
+      "mission": "20250515_RBD_REPAR_F21_HA",
+      "index": "VARI",
+      "path": "index_maps/F21/20250515_RBD_REPAR_F21_HA_VARI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250515",
+      "mission": "20250515_RBD_REPAR_F21_LA",
+      "index": "ExG",
+      "path": "index_maps/F21/20250515_RBD_REPAR_F21_LA_ExG.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250515",
+      "mission": "20250515_RBD_REPAR_F21_LA",
+      "index": "GNDVI",
+      "path": "index_maps/F21/20250515_RBD_REPAR_F21_LA_GNDVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250515",
+      "mission": "20250515_RBD_REPAR_F21_LA",
+      "index": "NDRE",
+      "path": "index_maps/F21/20250515_RBD_REPAR_F21_LA_NDRE.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250515",
+      "mission": "20250515_RBD_REPAR_F21_LA",
+      "index": "NDVI",
+      "path": "index_maps/F21/20250515_RBD_REPAR_F21_LA_NDVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250515",
+      "mission": "20250515_RBD_REPAR_F21_LA",
+      "index": "OSAVI",
+      "path": "index_maps/F21/20250515_RBD_REPAR_F21_LA_OSAVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250515",
+      "mission": "20250515_RBD_REPAR_F21_LA",
+      "index": "VARI",
+      "path": "index_maps/F21/20250515_RBD_REPAR_F21_LA_VARI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F12_HA",
+      "index": "ExG",
+      "path": "index_maps/F12/20250519_RBD_REPAR_F12_HA_ExG.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F12_HA",
+      "index": "GNDVI",
+      "path": "index_maps/F12/20250519_RBD_REPAR_F12_HA_GNDVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F12_HA",
+      "index": "NDRE",
+      "path": "index_maps/F12/20250519_RBD_REPAR_F12_HA_NDRE.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F12_HA",
+      "index": "NDVI",
+      "path": "index_maps/F12/20250519_RBD_REPAR_F12_HA_NDVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F12_HA",
+      "index": "OSAVI",
+      "path": "index_maps/F12/20250519_RBD_REPAR_F12_HA_OSAVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F12_HA",
+      "index": "VARI",
+      "path": "index_maps/F12/20250519_RBD_REPAR_F12_HA_VARI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F17_HA",
+      "index": "ExG",
+      "path": "index_maps/F17/20250519_RBD_REPAR_F17_HA_ExG.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F17_HA",
+      "index": "GNDVI",
+      "path": "index_maps/F17/20250519_RBD_REPAR_F17_HA_GNDVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F17_HA",
+      "index": "NDRE",
+      "path": "index_maps/F17/20250519_RBD_REPAR_F17_HA_NDRE.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F17_HA",
+      "index": "NDVI",
+      "path": "index_maps/F17/20250519_RBD_REPAR_F17_HA_NDVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F17_HA",
+      "index": "OSAVI",
+      "path": "index_maps/F17/20250519_RBD_REPAR_F17_HA_OSAVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F17_HA",
+      "index": "VARI",
+      "path": "index_maps/F17/20250519_RBD_REPAR_F17_HA_VARI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F17_LA",
+      "index": "ExG",
+      "path": "index_maps/F17/20250519_RBD_REPAR_F17_LA_ExG.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F17_LA",
+      "index": "GNDVI",
+      "path": "index_maps/F17/20250519_RBD_REPAR_F17_LA_GNDVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F17_LA",
+      "index": "NDRE",
+      "path": "index_maps/F17/20250519_RBD_REPAR_F17_LA_NDRE.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F17_LA",
+      "index": "NDVI",
+      "path": "index_maps/F17/20250519_RBD_REPAR_F17_LA_NDVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F17_LA",
+      "index": "OSAVI",
+      "path": "index_maps/F17/20250519_RBD_REPAR_F17_LA_OSAVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F17_LA",
+      "index": "VARI",
+      "path": "index_maps/F17/20250519_RBD_REPAR_F17_LA_VARI.png"
+    },
+    {
+      "field": "F17B",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F17b_LA",
+      "index": "ExG",
+      "path": "index_maps/F17B/20250519_RBD_REPAR_F17b_LA_ExG.png"
+    },
+    {
+      "field": "F17B",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F17b_LA",
+      "index": "GNDVI",
+      "path": "index_maps/F17B/20250519_RBD_REPAR_F17b_LA_GNDVI.png"
+    },
+    {
+      "field": "F17B",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F17b_LA",
+      "index": "NDRE",
+      "path": "index_maps/F17B/20250519_RBD_REPAR_F17b_LA_NDRE.png"
+    },
+    {
+      "field": "F17B",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F17b_LA",
+      "index": "NDVI",
+      "path": "index_maps/F17B/20250519_RBD_REPAR_F17b_LA_NDVI.png"
+    },
+    {
+      "field": "F17B",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F17b_LA",
+      "index": "OSAVI",
+      "path": "index_maps/F17B/20250519_RBD_REPAR_F17b_LA_OSAVI.png"
+    },
+    {
+      "field": "F17B",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_F17b_LA",
+      "index": "VARI",
+      "path": "index_maps/F17B/20250519_RBD_REPAR_F17b_LA_VARI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_exp1_HA",
+      "index": "ExG",
+      "path": "index_maps/EXP1/20250519_RBD_REPAR_exp1_HA_ExG.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_exp1_HA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP1/20250519_RBD_REPAR_exp1_HA_GNDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_exp1_HA",
+      "index": "NDRE",
+      "path": "index_maps/EXP1/20250519_RBD_REPAR_exp1_HA_NDRE.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_exp1_HA",
+      "index": "NDVI",
+      "path": "index_maps/EXP1/20250519_RBD_REPAR_exp1_HA_NDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_exp1_HA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP1/20250519_RBD_REPAR_exp1_HA_OSAVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_exp1_HA",
+      "index": "VARI",
+      "path": "index_maps/EXP1/20250519_RBD_REPAR_exp1_HA_VARI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_exp1_LA",
+      "index": "ExG",
+      "path": "index_maps/EXP1/20250519_RBD_REPAR_exp1_LA_ExG.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_exp1_LA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP1/20250519_RBD_REPAR_exp1_LA_GNDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_exp1_LA",
+      "index": "NDRE",
+      "path": "index_maps/EXP1/20250519_RBD_REPAR_exp1_LA_NDRE.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_exp1_LA",
+      "index": "NDVI",
+      "path": "index_maps/EXP1/20250519_RBD_REPAR_exp1_LA_NDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_exp1_LA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP1/20250519_RBD_REPAR_exp1_LA_OSAVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_exp1_LA",
+      "index": "VARI",
+      "path": "index_maps/EXP1/20250519_RBD_REPAR_exp1_LA_VARI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_exp2_LA",
+      "index": "ExG",
+      "path": "index_maps/EXP2/20250519_RBD_REPAR_exp2_LA_ExG.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_exp2_LA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP2/20250519_RBD_REPAR_exp2_LA_GNDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_exp2_LA",
+      "index": "NDRE",
+      "path": "index_maps/EXP2/20250519_RBD_REPAR_exp2_LA_NDRE.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_exp2_LA",
+      "index": "NDVI",
+      "path": "index_maps/EXP2/20250519_RBD_REPAR_exp2_LA_NDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_exp2_LA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP2/20250519_RBD_REPAR_exp2_LA_OSAVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250519",
+      "mission": "20250519_RBD_REPAR_exp2_LA",
+      "index": "VARI",
+      "path": "index_maps/EXP2/20250519_RBD_REPAR_exp2_LA_VARI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250520",
+      "mission": "20250520_RBD_REPAR_F21_HA",
+      "index": "ExG",
+      "path": "index_maps/F21/20250520_RBD_REPAR_F21_HA_ExG.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250520",
+      "mission": "20250520_RBD_REPAR_F21_HA",
+      "index": "GNDVI",
+      "path": "index_maps/F21/20250520_RBD_REPAR_F21_HA_GNDVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250520",
+      "mission": "20250520_RBD_REPAR_F21_HA",
+      "index": "NDRE",
+      "path": "index_maps/F21/20250520_RBD_REPAR_F21_HA_NDRE.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250520",
+      "mission": "20250520_RBD_REPAR_F21_HA",
+      "index": "NDVI",
+      "path": "index_maps/F21/20250520_RBD_REPAR_F21_HA_NDVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250520",
+      "mission": "20250520_RBD_REPAR_F21_HA",
+      "index": "OSAVI",
+      "path": "index_maps/F21/20250520_RBD_REPAR_F21_HA_OSAVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250520",
+      "mission": "20250520_RBD_REPAR_F21_HA",
+      "index": "VARI",
+      "path": "index_maps/F21/20250520_RBD_REPAR_F21_HA_VARI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250520",
+      "mission": "20250520_RBD_REPAR_F21_LA",
+      "index": "ExG",
+      "path": "index_maps/F21/20250520_RBD_REPAR_F21_LA_ExG.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250520",
+      "mission": "20250520_RBD_REPAR_F21_LA",
+      "index": "GNDVI",
+      "path": "index_maps/F21/20250520_RBD_REPAR_F21_LA_GNDVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250520",
+      "mission": "20250520_RBD_REPAR_F21_LA",
+      "index": "NDRE",
+      "path": "index_maps/F21/20250520_RBD_REPAR_F21_LA_NDRE.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250520",
+      "mission": "20250520_RBD_REPAR_F21_LA",
+      "index": "NDVI",
+      "path": "index_maps/F21/20250520_RBD_REPAR_F21_LA_NDVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250520",
+      "mission": "20250520_RBD_REPAR_F21_LA",
+      "index": "OSAVI",
+      "path": "index_maps/F21/20250520_RBD_REPAR_F21_LA_OSAVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250520",
+      "mission": "20250520_RBD_REPAR_F21_LA",
+      "index": "VARI",
+      "path": "index_maps/F21/20250520_RBD_REPAR_F21_LA_VARI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F12_HA",
+      "index": "ExG",
+      "path": "index_maps/F12/20250525_RBD_REPAR_F12_HA_ExG.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F12_HA",
+      "index": "GNDVI",
+      "path": "index_maps/F12/20250525_RBD_REPAR_F12_HA_GNDVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F12_HA",
+      "index": "NDRE",
+      "path": "index_maps/F12/20250525_RBD_REPAR_F12_HA_NDRE.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F12_HA",
+      "index": "NDVI",
+      "path": "index_maps/F12/20250525_RBD_REPAR_F12_HA_NDVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F12_HA",
+      "index": "OSAVI",
+      "path": "index_maps/F12/20250525_RBD_REPAR_F12_HA_OSAVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F12_HA",
+      "index": "VARI",
+      "path": "index_maps/F12/20250525_RBD_REPAR_F12_HA_VARI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F12_LA",
+      "index": "ExG",
+      "path": "index_maps/F12/20250525_RBD_REPAR_F12_LA_ExG.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F12_LA",
+      "index": "GNDVI",
+      "path": "index_maps/F12/20250525_RBD_REPAR_F12_LA_GNDVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F12_LA",
+      "index": "NDRE",
+      "path": "index_maps/F12/20250525_RBD_REPAR_F12_LA_NDRE.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F12_LA",
+      "index": "NDVI",
+      "path": "index_maps/F12/20250525_RBD_REPAR_F12_LA_NDVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F12_LA",
+      "index": "OSAVI",
+      "path": "index_maps/F12/20250525_RBD_REPAR_F12_LA_OSAVI.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F12_LA",
+      "index": "VARI",
+      "path": "index_maps/F12/20250525_RBD_REPAR_F12_LA_VARI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F17_HA",
+      "index": "ExG",
+      "path": "index_maps/F17/20250525_RBD_REPAR_F17_HA_ExG.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F17_HA",
+      "index": "GNDVI",
+      "path": "index_maps/F17/20250525_RBD_REPAR_F17_HA_GNDVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F17_HA",
+      "index": "NDRE",
+      "path": "index_maps/F17/20250525_RBD_REPAR_F17_HA_NDRE.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F17_HA",
+      "index": "NDVI",
+      "path": "index_maps/F17/20250525_RBD_REPAR_F17_HA_NDVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F17_HA",
+      "index": "OSAVI",
+      "path": "index_maps/F17/20250525_RBD_REPAR_F17_HA_OSAVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F17_HA",
+      "index": "VARI",
+      "path": "index_maps/F17/20250525_RBD_REPAR_F17_HA_VARI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F17_LA",
+      "index": "ExG",
+      "path": "index_maps/F17/20250525_RBD_REPAR_F17_LA_ExG.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F17_LA",
+      "index": "GNDVI",
+      "path": "index_maps/F17/20250525_RBD_REPAR_F17_LA_GNDVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F17_LA",
+      "index": "NDRE",
+      "path": "index_maps/F17/20250525_RBD_REPAR_F17_LA_NDRE.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F17_LA",
+      "index": "NDVI",
+      "path": "index_maps/F17/20250525_RBD_REPAR_F17_LA_NDVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F17_LA",
+      "index": "OSAVI",
+      "path": "index_maps/F17/20250525_RBD_REPAR_F17_LA_OSAVI.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F17_LA",
+      "index": "VARI",
+      "path": "index_maps/F17/20250525_RBD_REPAR_F17_LA_VARI.png"
+    },
+    {
+      "field": "F17B",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F17b_LA",
+      "index": "ExG",
+      "path": "index_maps/F17B/20250525_RBD_REPAR_F17b_LA_ExG.png"
+    },
+    {
+      "field": "F17B",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F17b_LA",
+      "index": "GNDVI",
+      "path": "index_maps/F17B/20250525_RBD_REPAR_F17b_LA_GNDVI.png"
+    },
+    {
+      "field": "F17B",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F17b_LA",
+      "index": "NDRE",
+      "path": "index_maps/F17B/20250525_RBD_REPAR_F17b_LA_NDRE.png"
+    },
+    {
+      "field": "F17B",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F17b_LA",
+      "index": "NDVI",
+      "path": "index_maps/F17B/20250525_RBD_REPAR_F17b_LA_NDVI.png"
+    },
+    {
+      "field": "F17B",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F17b_LA",
+      "index": "OSAVI",
+      "path": "index_maps/F17B/20250525_RBD_REPAR_F17b_LA_OSAVI.png"
+    },
+    {
+      "field": "F17B",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F17b_LA",
+      "index": "VARI",
+      "path": "index_maps/F17B/20250525_RBD_REPAR_F17b_LA_VARI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F21_HA",
+      "index": "ExG",
+      "path": "index_maps/F21/20250525_RBD_REPAR_F21_HA_ExG.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F21_HA",
+      "index": "GNDVI",
+      "path": "index_maps/F21/20250525_RBD_REPAR_F21_HA_GNDVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F21_HA",
+      "index": "NDRE",
+      "path": "index_maps/F21/20250525_RBD_REPAR_F21_HA_NDRE.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F21_HA",
+      "index": "NDVI",
+      "path": "index_maps/F21/20250525_RBD_REPAR_F21_HA_NDVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F21_HA",
+      "index": "OSAVI",
+      "path": "index_maps/F21/20250525_RBD_REPAR_F21_HA_OSAVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F21_HA",
+      "index": "VARI",
+      "path": "index_maps/F21/20250525_RBD_REPAR_F21_HA_VARI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F21_LA",
+      "index": "ExG",
+      "path": "index_maps/F21/20250525_RBD_REPAR_F21_LA_ExG.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F21_LA",
+      "index": "GNDVI",
+      "path": "index_maps/F21/20250525_RBD_REPAR_F21_LA_GNDVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F21_LA",
+      "index": "NDRE",
+      "path": "index_maps/F21/20250525_RBD_REPAR_F21_LA_NDRE.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F21_LA",
+      "index": "NDVI",
+      "path": "index_maps/F21/20250525_RBD_REPAR_F21_LA_NDVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F21_LA",
+      "index": "OSAVI",
+      "path": "index_maps/F21/20250525_RBD_REPAR_F21_LA_OSAVI.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_F21_LA",
+      "index": "VARI",
+      "path": "index_maps/F21/20250525_RBD_REPAR_F21_LA_VARI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp1_HA",
+      "index": "ExG",
+      "path": "index_maps/EXP1/20250525_RBD_REPAR_exp1_HA_ExG.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp1_HA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP1/20250525_RBD_REPAR_exp1_HA_GNDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp1_HA",
+      "index": "NDRE",
+      "path": "index_maps/EXP1/20250525_RBD_REPAR_exp1_HA_NDRE.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp1_HA",
+      "index": "NDVI",
+      "path": "index_maps/EXP1/20250525_RBD_REPAR_exp1_HA_NDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp1_HA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP1/20250525_RBD_REPAR_exp1_HA_OSAVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp1_HA",
+      "index": "VARI",
+      "path": "index_maps/EXP1/20250525_RBD_REPAR_exp1_HA_VARI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp1_LA",
+      "index": "ExG",
+      "path": "index_maps/EXP1/20250525_RBD_REPAR_exp1_LA_ExG.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp1_LA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP1/20250525_RBD_REPAR_exp1_LA_GNDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp1_LA",
+      "index": "NDRE",
+      "path": "index_maps/EXP1/20250525_RBD_REPAR_exp1_LA_NDRE.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp1_LA",
+      "index": "NDVI",
+      "path": "index_maps/EXP1/20250525_RBD_REPAR_exp1_LA_NDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp1_LA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP1/20250525_RBD_REPAR_exp1_LA_OSAVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp1_LA",
+      "index": "VARI",
+      "path": "index_maps/EXP1/20250525_RBD_REPAR_exp1_LA_VARI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp2_HA",
+      "index": "ExG",
+      "path": "index_maps/EXP2/20250525_RBD_REPAR_exp2_HA_ExG.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp2_HA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP2/20250525_RBD_REPAR_exp2_HA_GNDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp2_HA",
+      "index": "NDRE",
+      "path": "index_maps/EXP2/20250525_RBD_REPAR_exp2_HA_NDRE.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp2_HA",
+      "index": "NDVI",
+      "path": "index_maps/EXP2/20250525_RBD_REPAR_exp2_HA_NDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp2_HA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP2/20250525_RBD_REPAR_exp2_HA_OSAVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp2_HA",
+      "index": "VARI",
+      "path": "index_maps/EXP2/20250525_RBD_REPAR_exp2_HA_VARI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp2_LA",
+      "index": "ExG",
+      "path": "index_maps/EXP2/20250525_RBD_REPAR_exp2_LA_ExG.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp2_LA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP2/20250525_RBD_REPAR_exp2_LA_GNDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp2_LA",
+      "index": "NDRE",
+      "path": "index_maps/EXP2/20250525_RBD_REPAR_exp2_LA_NDRE.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp2_LA",
+      "index": "NDVI",
+      "path": "index_maps/EXP2/20250525_RBD_REPAR_exp2_LA_NDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp2_LA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP2/20250525_RBD_REPAR_exp2_LA_OSAVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250525",
+      "mission": "20250525_RBD_REPAR_exp2_LA",
+      "index": "VARI",
+      "path": "index_maps/EXP2/20250525_RBD_REPAR_exp2_LA_VARI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp1_HA",
+      "index": "ExG",
+      "path": "index_maps/EXP1/20250530_RBD_REPAR_exp1_HA_ExG.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp1_HA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP1/20250530_RBD_REPAR_exp1_HA_GNDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp1_HA",
+      "index": "NDRE",
+      "path": "index_maps/EXP1/20250530_RBD_REPAR_exp1_HA_NDRE.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp1_HA",
+      "index": "NDVI",
+      "path": "index_maps/EXP1/20250530_RBD_REPAR_exp1_HA_NDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp1_HA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP1/20250530_RBD_REPAR_exp1_HA_OSAVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp1_HA",
+      "index": "VARI",
+      "path": "index_maps/EXP1/20250530_RBD_REPAR_exp1_HA_VARI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp1_LA",
+      "index": "ExG",
+      "path": "index_maps/EXP1/20250530_RBD_REPAR_exp1_LA_ExG.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp1_LA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP1/20250530_RBD_REPAR_exp1_LA_GNDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp1_LA",
+      "index": "NDRE",
+      "path": "index_maps/EXP1/20250530_RBD_REPAR_exp1_LA_NDRE.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp1_LA",
+      "index": "NDVI",
+      "path": "index_maps/EXP1/20250530_RBD_REPAR_exp1_LA_NDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp1_LA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP1/20250530_RBD_REPAR_exp1_LA_OSAVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp1_LA",
+      "index": "VARI",
+      "path": "index_maps/EXP1/20250530_RBD_REPAR_exp1_LA_VARI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp2_HA",
+      "index": "ExG",
+      "path": "index_maps/EXP2/20250530_RBD_REPAR_exp2_HA_ExG.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp2_HA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP2/20250530_RBD_REPAR_exp2_HA_GNDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp2_HA",
+      "index": "NDRE",
+      "path": "index_maps/EXP2/20250530_RBD_REPAR_exp2_HA_NDRE.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp2_HA",
+      "index": "NDVI",
+      "path": "index_maps/EXP2/20250530_RBD_REPAR_exp2_HA_NDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp2_HA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP2/20250530_RBD_REPAR_exp2_HA_OSAVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp2_HA",
+      "index": "VARI",
+      "path": "index_maps/EXP2/20250530_RBD_REPAR_exp2_HA_VARI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp2_LA",
+      "index": "ExG",
+      "path": "index_maps/EXP2/20250530_RBD_REPAR_exp2_LA_ExG.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp2_LA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP2/20250530_RBD_REPAR_exp2_LA_GNDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp2_LA",
+      "index": "NDRE",
+      "path": "index_maps/EXP2/20250530_RBD_REPAR_exp2_LA_NDRE.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp2_LA",
+      "index": "NDVI",
+      "path": "index_maps/EXP2/20250530_RBD_REPAR_exp2_LA_NDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp2_LA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP2/20250530_RBD_REPAR_exp2_LA_OSAVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250530",
+      "mission": "20250530_RBD_REPAR_exp2_LA",
+      "index": "VARI",
+      "path": "index_maps/EXP2/20250530_RBD_REPAR_exp2_LA_VARI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250605",
+      "mission": "20250605_RBD_Vallreparera_exp1_HA",
+      "index": "ExG",
+      "path": "index_maps/EXP1/20250605_RBD_Vallreparera_exp1_HA_ExG.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250605",
+      "mission": "20250605_RBD_Vallreparera_exp1_HA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP1/20250605_RBD_Vallreparera_exp1_HA_GNDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250605",
+      "mission": "20250605_RBD_Vallreparera_exp1_HA",
+      "index": "NDRE",
+      "path": "index_maps/EXP1/20250605_RBD_Vallreparera_exp1_HA_NDRE.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250605",
+      "mission": "20250605_RBD_Vallreparera_exp1_HA",
+      "index": "NDVI",
+      "path": "index_maps/EXP1/20250605_RBD_Vallreparera_exp1_HA_NDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250605",
+      "mission": "20250605_RBD_Vallreparera_exp1_HA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP1/20250605_RBD_Vallreparera_exp1_HA_OSAVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250605",
+      "mission": "20250605_RBD_Vallreparera_exp1_HA",
+      "index": "VARI",
+      "path": "index_maps/EXP1/20250605_RBD_Vallreparera_exp1_HA_VARI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250605",
+      "mission": "20250605_RBD_Vallreparera_exp1_LA",
+      "index": "ExG",
+      "path": "index_maps/EXP1/20250605_RBD_Vallreparera_exp1_LA_ExG.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250605",
+      "mission": "20250605_RBD_Vallreparera_exp1_LA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP1/20250605_RBD_Vallreparera_exp1_LA_GNDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250605",
+      "mission": "20250605_RBD_Vallreparera_exp1_LA",
+      "index": "NDRE",
+      "path": "index_maps/EXP1/20250605_RBD_Vallreparera_exp1_LA_NDRE.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250605",
+      "mission": "20250605_RBD_Vallreparera_exp1_LA",
+      "index": "NDVI",
+      "path": "index_maps/EXP1/20250605_RBD_Vallreparera_exp1_LA_NDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250605",
+      "mission": "20250605_RBD_Vallreparera_exp1_LA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP1/20250605_RBD_Vallreparera_exp1_LA_OSAVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250605",
+      "mission": "20250605_RBD_Vallreparera_exp1_LA",
+      "index": "VARI",
+      "path": "index_maps/EXP1/20250605_RBD_Vallreparera_exp1_LA_VARI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250605",
+      "mission": "20250605_RBD_Vallreparera_exp2_LA",
+      "index": "ExG",
+      "path": "index_maps/EXP2/20250605_RBD_Vallreparera_exp2_LA_ExG.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250605",
+      "mission": "20250605_RBD_Vallreparera_exp2_LA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP2/20250605_RBD_Vallreparera_exp2_LA_GNDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250605",
+      "mission": "20250605_RBD_Vallreparera_exp2_LA",
+      "index": "NDRE",
+      "path": "index_maps/EXP2/20250605_RBD_Vallreparera_exp2_LA_NDRE.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250605",
+      "mission": "20250605_RBD_Vallreparera_exp2_LA",
+      "index": "NDVI",
+      "path": "index_maps/EXP2/20250605_RBD_Vallreparera_exp2_LA_NDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250605",
+      "mission": "20250605_RBD_Vallreparera_exp2_LA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP2/20250605_RBD_Vallreparera_exp2_LA_OSAVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250605",
+      "mission": "20250605_RBD_Vallreparera_exp2_LA",
+      "index": "VARI",
+      "path": "index_maps/EXP2/20250605_RBD_Vallreparera_exp2_LA_VARI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp1_HA",
+      "index": "ExG",
+      "path": "index_maps/EXP1/20250611_RBD_REPAR_exp1_HA_ExG.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp1_HA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP1/20250611_RBD_REPAR_exp1_HA_GNDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp1_HA",
+      "index": "NDRE",
+      "path": "index_maps/EXP1/20250611_RBD_REPAR_exp1_HA_NDRE.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp1_HA",
+      "index": "NDVI",
+      "path": "index_maps/EXP1/20250611_RBD_REPAR_exp1_HA_NDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp1_HA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP1/20250611_RBD_REPAR_exp1_HA_OSAVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp1_HA",
+      "index": "VARI",
+      "path": "index_maps/EXP1/20250611_RBD_REPAR_exp1_HA_VARI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp1_LA",
+      "index": "ExG",
+      "path": "index_maps/EXP1/20250611_RBD_REPAR_exp1_LA_ExG.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp1_LA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP1/20250611_RBD_REPAR_exp1_LA_GNDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp1_LA",
+      "index": "NDRE",
+      "path": "index_maps/EXP1/20250611_RBD_REPAR_exp1_LA_NDRE.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp1_LA",
+      "index": "NDVI",
+      "path": "index_maps/EXP1/20250611_RBD_REPAR_exp1_LA_NDVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp1_LA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP1/20250611_RBD_REPAR_exp1_LA_OSAVI.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp1_LA",
+      "index": "VARI",
+      "path": "index_maps/EXP1/20250611_RBD_REPAR_exp1_LA_VARI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp2_HA",
+      "index": "ExG",
+      "path": "index_maps/EXP2/20250611_RBD_REPAR_exp2_HA_ExG.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp2_HA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP2/20250611_RBD_REPAR_exp2_HA_GNDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp2_HA",
+      "index": "NDRE",
+      "path": "index_maps/EXP2/20250611_RBD_REPAR_exp2_HA_NDRE.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp2_HA",
+      "index": "NDVI",
+      "path": "index_maps/EXP2/20250611_RBD_REPAR_exp2_HA_NDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp2_HA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP2/20250611_RBD_REPAR_exp2_HA_OSAVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp2_HA",
+      "index": "VARI",
+      "path": "index_maps/EXP2/20250611_RBD_REPAR_exp2_HA_VARI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp2_LA",
+      "index": "ExG",
+      "path": "index_maps/EXP2/20250611_RBD_REPAR_exp2_LA_ExG.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp2_LA",
+      "index": "GNDVI",
+      "path": "index_maps/EXP2/20250611_RBD_REPAR_exp2_LA_GNDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp2_LA",
+      "index": "NDRE",
+      "path": "index_maps/EXP2/20250611_RBD_REPAR_exp2_LA_NDRE.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp2_LA",
+      "index": "NDVI",
+      "path": "index_maps/EXP2/20250611_RBD_REPAR_exp2_LA_NDVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp2_LA",
+      "index": "OSAVI",
+      "path": "index_maps/EXP2/20250611_RBD_REPAR_exp2_LA_OSAVI.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250611",
+      "mission": "20250611_RBD_REPAR_exp2_LA",
+      "index": "VARI",
+      "path": "index_maps/EXP2/20250611_RBD_REPAR_exp2_LA_VARI.png"
+    }
+  ],
+  "overlays": [
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250508",
+      "path": "prediction_overlays/EXP1/20250508_EXP1_HA_overlay.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250508",
+      "path": "prediction_overlays/EXP1/20250508_EXP1_LA_overlay.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250513",
+      "path": "prediction_overlays/EXP1/20250513_EXP1_HA_overlay.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250513",
+      "path": "prediction_overlays/EXP1/20250513_EXP1_LA_overlay.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250519",
+      "path": "prediction_overlays/EXP1/20250519_EXP1_HA_overlay.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250519",
+      "path": "prediction_overlays/EXP1/20250519_EXP1_LA_overlay.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250525",
+      "path": "prediction_overlays/EXP1/20250525_EXP1_HA_overlay.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250525",
+      "path": "prediction_overlays/EXP1/20250525_EXP1_LA_overlay.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250530",
+      "path": "prediction_overlays/EXP1/20250530_EXP1_HA_overlay.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250530",
+      "path": "prediction_overlays/EXP1/20250530_EXP1_LA_overlay.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250605",
+      "path": "prediction_overlays/EXP1/20250605_EXP1_HA_overlay.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250605",
+      "path": "prediction_overlays/EXP1/20250605_EXP1_LA_overlay.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "HA",
+      "date": "20250611",
+      "path": "prediction_overlays/EXP1/20250611_EXP1_HA_overlay.png"
+    },
+    {
+      "field": "EXP1",
+      "alt": "LA",
+      "date": "20250611",
+      "path": "prediction_overlays/EXP1/20250611_EXP1_LA_overlay.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250503",
+      "path": "prediction_overlays/EXP2/20250503_EXP2_HA_overlay.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250503",
+      "path": "prediction_overlays/EXP2/20250503_EXP2_LA_overlay.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250508",
+      "path": "prediction_overlays/EXP2/20250508_EXP2_HA_overlay.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250508",
+      "path": "prediction_overlays/EXP2/20250508_EXP2_LA_overlay.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250513",
+      "path": "prediction_overlays/EXP2/20250513_EXP2_HA_overlay.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250513",
+      "path": "prediction_overlays/EXP2/20250513_EXP2_LA_overlay.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250519",
+      "path": "prediction_overlays/EXP2/20250519_EXP2_LA_overlay.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250525",
+      "path": "prediction_overlays/EXP2/20250525_EXP2_HA_overlay.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250525",
+      "path": "prediction_overlays/EXP2/20250525_EXP2_LA_overlay.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250530",
+      "path": "prediction_overlays/EXP2/20250530_EXP2_HA_overlay.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250530",
+      "path": "prediction_overlays/EXP2/20250530_EXP2_LA_overlay.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250605",
+      "path": "prediction_overlays/EXP2/20250605_EXP2_LA_overlay.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "HA",
+      "date": "20250611",
+      "path": "prediction_overlays/EXP2/20250611_EXP2_HA_overlay.png"
+    },
+    {
+      "field": "EXP2",
+      "alt": "LA",
+      "date": "20250611",
+      "path": "prediction_overlays/EXP2/20250611_EXP2_LA_overlay.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250423",
+      "path": "prediction_overlays/F12/20250423_F12_HA_overlay.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250423",
+      "path": "prediction_overlays/F12/20250423_F12_LA_overlay.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250429",
+      "path": "prediction_overlays/F12/20250429_F12_HA_overlay.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250429",
+      "path": "prediction_overlays/F12/20250429_F12_LA_overlay.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250508",
+      "path": "prediction_overlays/F12/20250508_F12_HA_overlay.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250513",
+      "path": "prediction_overlays/F12/20250513_F12_HA_overlay.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250513",
+      "path": "prediction_overlays/F12/20250513_F12_LA_overlay.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250519",
+      "path": "prediction_overlays/F12/20250519_F12_HA_overlay.png"
+    },
+    {
+      "field": "F12",
+      "alt": "HA",
+      "date": "20250525",
+      "path": "prediction_overlays/F12/20250525_F12_HA_overlay.png"
+    },
+    {
+      "field": "F12",
+      "alt": "LA",
+      "date": "20250525",
+      "path": "prediction_overlays/F12/20250525_F12_LA_overlay.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250503",
+      "path": "prediction_overlays/F17/20250503_F17_HA_overlay.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250503",
+      "path": "prediction_overlays/F17/20250503_F17_LA_overlay.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250508",
+      "path": "prediction_overlays/F17/20250508_F17_HA_overlay.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250508",
+      "path": "prediction_overlays/F17/20250508_F17_LA_overlay.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250513",
+      "path": "prediction_overlays/F17/20250513_F17_HA_overlay.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250513",
+      "path": "prediction_overlays/F17/20250513_F17_LA_overlay.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250519",
+      "path": "prediction_overlays/F17/20250519_F17_HA_overlay.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250519",
+      "path": "prediction_overlays/F17/20250519_F17_LA_overlay.png"
+    },
+    {
+      "field": "F17",
+      "alt": "HA",
+      "date": "20250525",
+      "path": "prediction_overlays/F17/20250525_F17_HA_overlay.png"
+    },
+    {
+      "field": "F17",
+      "alt": "LA",
+      "date": "20250525",
+      "path": "prediction_overlays/F17/20250525_F17_LA_overlay.png"
+    },
+    {
+      "field": "F17B",
+      "alt": "LA",
+      "date": "20250519",
+      "path": "prediction_overlays/F17B/20250519_F17B_LA_overlay.png"
+    },
+    {
+      "field": "F17B",
+      "alt": "LA",
+      "date": "20250525",
+      "path": "prediction_overlays/F17B/20250525_F17B_LA_overlay.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250503",
+      "path": "prediction_overlays/F21/20250503_F21_HA_overlay.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250503",
+      "path": "prediction_overlays/F21/20250503_F21_LA_overlay.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250508",
+      "path": "prediction_overlays/F21/20250508_F21_HA_overlay.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250508",
+      "path": "prediction_overlays/F21/20250508_F21_LA_overlay.png"
+    },
+    {
+      "field": "F21",
+      "alt": "HA",
+      "date": "20250520",
+      "path": "prediction_overlays/F21/20250520_F21_HA_overlay.png"
+    },
+    {
+      "field": "F21",
+      "alt": "LA",
+      "date": "20250520",
+      "path": "prediction_overlays/F21/20250520_F21_LA_overlay.png"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+Field,Alt,n,R2,RMSE,Bias,Adj,Sig,Type,Dataset
+F12,LA,15,0.728,25.6,20.3,80.0,p<0.001,Natural,Training
+F12,HA,20,0.366,31.7,-2.5,75.0,p<0.001,Natural,Training
+EXP2,LA,25,0.716,21.3,15.9,92.0,p<0.001,Natural,Training
+EXP2,HA,20,0.432,29.8,12.3,85.0,p<0.001,Natural,Training
+F17,LA,14,0.825,18.0,10.5,100.0,p<0.001,Natural,New
+F17,HA,17,0.718,26.2,-4.0,94.1,p<0.001,Natural,New
+F21,LA,10,0.331,26.2,17.5,100.0,p=0.082,Natural,New
+F21,HA,10,0.727,19.9,2.3,100.0,p=0.002,Natural,New
+EXP1,LA,15,0.412,33.7,20.2,66.7,p=0.010,Experimental,New
+EXP1,HA,21,0.367,33.4,1.3,76.2,p=0.004,Experimental,New

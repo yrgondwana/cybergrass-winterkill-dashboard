@@ -1,0 +1,7 @@
+field,lat,lon,type,description
+F12,63.8055,20.2332,Natural,Training field — moderate WK
+EXP2,63.8074,20.2383,Natural,Training field — heavy WK
+F17,63.8062,20.2313,Natural,New field — mild WK (F14 in coords)
+F17B,63.8062,20.231,Natural,New field — F17 sub-area
+F21,63.8103,20.2214,Natural,New field — moderate WK
+EXP1,63.8059,20.2342,Experimental,Herbicide strips — not natural WK
