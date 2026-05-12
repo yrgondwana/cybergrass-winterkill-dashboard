@@ -176,7 +176,7 @@ except Exception:
 st.sidebar.markdown("# CyberGrass 2.0")
 st.sidebar.markdown("Work Package 2  \n"
                     "Activity 2.2: Winter Kill Assessment \n"
-                    "SLU, Umeå, Sweden  \n")
+                    "SLU, Umeå, Sweden")
 st.sidebar.divider()
 
 page = st.sidebar.radio("Navigate", [
