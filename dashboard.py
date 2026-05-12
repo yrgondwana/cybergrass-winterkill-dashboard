@@ -197,7 +197,8 @@ if page == "Overview":
     st.markdown(
         "Towards automated winter kill detection in forage grasslands  \n"
         "  \n"
-        "Missions' Timeline: 23 April- 11 June 2025")
+        "Missions' Timeline: 23 April- 11 June 2025"
+        "  \n")
 
     # ── Metrics row ────────────────────────────────────────────────────────
     c1,c2,c3,c4,c5 = st.columns(5)
