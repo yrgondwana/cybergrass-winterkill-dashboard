@@ -175,7 +175,11 @@ except Exception:
 
 st.sidebar.markdown("# CyberGrass 2.0")
 st.sidebar.markdown("Work Package 2: Complementing forage scouting with low-cost drone technology  \n"
+                    "  \n"
                     "Activity 2.2: Forage Winter Kill Assessment  \n"
+                    "  \n"
+                    "Erasmus+ Traineeship-cum-Internship  \n" 
+                    "  \n"
                     "Umeå, Sweden")
 st.sidebar.divider()
 
@@ -192,8 +196,6 @@ if page == "Overview":
     st.title("Quantifying Potential Winter Kill in Nordic Leys using Low-Cost UAV-RGB Imagery and a U-Net-Based Deep Learning Pipeline with SAM-2 Assisted Image Annotation")
     st.markdown(
         "Towards automated winter kill detection in forage grasslands  \n"
-        "  \n"
-        "Erasmus+ Traineeship-cum-Internship  \n" 
         "  \n"
         "Missions' Timeline: 23 April- 11 June 2025")
 
