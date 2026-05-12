@@ -178,7 +178,8 @@ st.sidebar.markdown("Work Package 2  \n"
                     "Activity 2.2 (Winter Kill Assessment)  \n"
                     "Erasmus+ Traineeship  \n"
                     "SLU Umeå, Sweden  \n" 
-                    "April-June 2025")
+                    "Author: Yatharth Ratan Gondwana \n"
+                    "Supervisor: Dr. Julianne de Castro Oliveira")
 st.sidebar.divider()
 
 page = st.sidebar.radio("Navigate", [
