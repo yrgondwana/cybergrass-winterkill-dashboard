@@ -178,9 +178,9 @@ st.sidebar.markdown("Work Package 2: Complementing forage scouting with low-cost
                     "  \n"
                     "Activity 2.2: Forage Winter Kill Assessment  \n"
                     "  \n"
-                    "Erasmus+ Traineeship-cum-Internship  \n" 
-                    "  \n"
-                    "Umeå, Sweden")
+                    "Erasmus+ Traineeship-cum-Internship  \n") 
+
+
 st.sidebar.divider()
 
 page = st.sidebar.radio("Navigate", [
