@@ -338,8 +338,10 @@ if page == "📍 Overview":
             ),
             height=500,
             margin={"r":0,"t":20,"l":0,"b":0},
-            legend=dict(orientation="h", y=-0.06))
-        st.plotly_chart(fig_map, use_container_width=True)
+            legend=dict(orientation="h", y=-0.06),
+            dragmode="zoom")
+        st.plotly_chart(fig_map, use_container_width=True,
+                config={"scrollZoom": True})
         st.caption(
             "Exact field boundaries from field mask shapefiles (SWEREF99/TM, EPSG:3006 → WGS84). "
             "HA = larger outer boundary · LA = inner sub-area · F17b overlaid within F17.")
