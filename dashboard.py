@@ -165,7 +165,7 @@ def show_img(rel, caption=""):
 
 # ── Sidebar ────────────────────────────────────────────────────────────────
 try:
-    _logo = ASSET_DIR / "CyberGrassImg.png"
+    _logo = ASSET_DIR / "drone_pic.jpeg"
     if _logo.exists():
         st.sidebar.image(Image.open(_logo), width=220)
     else:
