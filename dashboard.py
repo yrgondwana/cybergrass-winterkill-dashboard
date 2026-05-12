@@ -180,10 +180,10 @@ st.sidebar.markdown("Work Package 2  \n"
 st.sidebar.divider()
 
 page = st.sidebar.radio("Navigate", [
-    "Overview",
-    "Field Viewer",
-    "DL Pipeline",
-    "Results"])
+    "📍 Overview",
+    "🌿 Field Viewer",
+    "🤖  DL Pipeline",
+    "📊  Results"])
 
 # ══════════════════════════════════════════════════════════════════════════
 # PAGE 1 — OVERVIEW
