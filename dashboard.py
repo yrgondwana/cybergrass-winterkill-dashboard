@@ -165,7 +165,7 @@ def show_img(rel, caption=""):
 
 # ── Sidebar ────────────────────────────────────────────────────────────────
 try:
-    _logo = Path(r"C:\Final_Dashboard\slu_logo_webb.png")
+    _logo = ASSET_DIR / "CyberGrassImg.png"
     if _logo.exists():
         st.sidebar.image(Image.open(_logo), width=220)
     else:
@@ -180,10 +180,10 @@ st.sidebar.markdown("Work Package 2  \n"
 st.sidebar.divider()
 
 page = st.sidebar.radio("Navigate", [
-    "📍 Overview",
-    "🌿 Field Viewer",
-    "🤖 DL Pipeline",
-    "📊 Results"])
+    "Overview",
+    "Field Viewer",
+    "DL Pipeline",
+    "Results"])
 
 # ══════════════════════════════════════════════════════════════════════════
 # PAGE 1 — OVERVIEW
@@ -209,7 +209,7 @@ if page == "📍 Overview":
     st.divider()
 
     # ── Study area map ─────────────────────────────────────────────────────
-    st.subheader("📍 Study Area: Röbäcksdalen, Umeå, Sweden")
+    st.subheader("📍 Study Area: Röbäcksdalen Field Station, Umeå, Sweden")
 
     field_polys = load_field_polygons()
 
