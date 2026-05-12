@@ -174,9 +174,9 @@ except Exception:
     st.sidebar.markdown("**SLU**")
 
 st.sidebar.markdown("# CyberGrass 2.0")
-st.sidebar.markdown("Work Package 2  \n"
-                    "Activity 2.2: Winter Kill Assessment \n"
-                    "SLU, Umeå, Sweden")
+st.sidebar.markdown("Work Package 2: Complementing forage scouting with low-cost drone technology  \n"
+                    "Activity 2.2: Forage Winter Kill Assessment  \n"
+                    "Umeå, Sweden")
 st.sidebar.divider()
 
 page = st.sidebar.radio("Navigate", [
