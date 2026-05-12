@@ -173,13 +173,10 @@ try:
 except Exception:
     st.sidebar.markdown("**SLU**")
 
-st.sidebar.markdown("## CyberGrass 2.0")
+st.sidebar.markdown("# CyberGrass 2.0")
 st.sidebar.markdown("Work Package 2  \n"
-                    "Activity 2.2 (Winter Kill Assessment)  \n"
-                    "Erasmus+ Traineeship-cum-Internship  \n"
-                    "SLU Umeå, Sweden  \n" 
-                    "Author: Yatharth Ratan Gondwana \n"
-                    "Supervisor: Dr. Julianne de Castro Oliveira")
+                    "Activity 2.2: Winter Kill Assessment \n"
+                    "SLU, Umeå, Sweden  \n")
 st.sidebar.divider()
 
 page = st.sidebar.radio("Navigate", [
