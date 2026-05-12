@@ -191,8 +191,9 @@ page = st.sidebar.radio("Navigate", [
 if page == "Overview":
     st.title("Quantifying Potential Winter Kill in Nordic Leys using Low-Cost UAV-RGB Imagery and a U-Net-Based Deep Learning Pipeline with SAM-2 Assisted Image Annotation")
     st.markdown(
-        "**Towards automated winter kill detection in forage grasslands \n"
-        "WP2 Activity 2.2 · Erasmus+ Traineeship-cum-Internship · Missions' Timeline: 23 April- 11 June 2025")
+        "Towards automated winter kill detection in forage grasslands \n"
+        "Erasmus+ Traineeship-cum-Internship \n" 
+        "Missions' Timeline: 23 April- 11 June 2025")
 
     # ── Metrics row ────────────────────────────────────────────────────────
     c1,c2,c3,c4,c5 = st.columns(5)
