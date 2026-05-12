@@ -180,15 +180,15 @@ st.sidebar.markdown("Work Package 2  \n"
 st.sidebar.divider()
 
 page = st.sidebar.radio("Navigate", [
-    "📍 Overview",
-    "🌿 Field Viewer",
-    "🤖  DL Pipeline",
-    "📊  Results"])
+    "Overview",
+    "Field Viewer",
+    "DL Pipeline",
+    "Results"])
 
 # ══════════════════════════════════════════════════════════════════════════
 # PAGE 1 — OVERVIEW
 # ══════════════════════════════════════════════════════════════════════════
-if page == "📍 Overview":
+if page == "Overview":
     st.title("Quantifying Potential Winter Kill in Nordic Leys using Low-Cost UAV-RGB Imagery and a U-Net-Based Deep Learning Pipeline with SAM-2 Assisted Image Annotation")
     st.markdown(
         "**Automated winter kill detection in forage grass fields "
@@ -482,8 +482,8 @@ if page == "📍 Overview":
 # ══════════════════════════════════════════════════════════════════════════
 # PAGE 2 — FIELD VIEWER
 # ══════════════════════════════════════════════════════════════════════════
-elif page == "🌿 Field Viewer":
-    st.title("🌿 Field Viewer: RGB Imagery & Spectral Indices")
+elif page == "Field Viewer":
+    st.title("Field Viewer: RGB Imagery & Spectral Indices")
     st.markdown(
         "Select field, altitude and date to view the RGB mosaic and "
         "any spectral index map.  \n"
@@ -641,8 +641,8 @@ elif page == "🌿 Field Viewer":
 # ══════════════════════════════════════════════════════════════════════════
 # PAGE 3 — DL PIPELINE
 # ══════════════════════════════════════════════════════════════════════════
-elif page == "🤖 DL Pipeline":
-    st.title("🤖 Deep Learning Pipeline")
+elif page == "DL Pipeline":
+    st.title("Deep Learning Pipeline")
 
     tab1, tab2, tab3 = st.tabs([
         "🏗️ Architecture & Training",
@@ -780,8 +780,8 @@ elif page == "🤖 DL Pipeline":
 # ══════════════════════════════════════════════════════════════════════════
 # PAGE 4 — RESULTS
 # ══════════════════════════════════════════════════════════════════════════
-elif page == "📊 Results":
-    st.title("📊 Results")
+elif page == "Results":
+    st.title("Results")
 
     tab1, tab2, tab3 = st.tabs([
         "📉 Potential Winter Kill Trajectories",
