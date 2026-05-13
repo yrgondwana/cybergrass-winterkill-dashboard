@@ -193,7 +193,7 @@ page = st.sidebar.radio("Navigate", [
 # PAGE 1 — OVERVIEW
 # ══════════════════════════════════════════════════════════════════════════
 if page == "Overview":
-    st.title("Quantifying Potential Winter Kill in Nordic Leys using Low-Cost UAV-RGB Imagery and a U-Net-Based Deep Learning Pipeline with SAM-2 Assisted Image Annotation")
+    st.title("Quantifying Potential Winter Kill in Nordic Leys")
     st.markdown(
         "Towards automated winter kill detection in forage grasslands  \n"
         "  \n"
