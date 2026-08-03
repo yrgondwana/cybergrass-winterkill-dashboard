@@ -203,22 +203,22 @@ if page == "Overview":
     # ── What is this? ────────────────────────────────────────────────────
     with st.container(border=True):
         st.markdown("""
-##### 🌾 What am I looking at?
+##### What am I looking at?
 
 Perennial forage leys in the Nordic region often emerge from winter with patches of dead or
-damaged grass — **winter kill** — caused by ice encasement, prolonged snow cover, or fungal
-snow moulds. Today, farmers assess this by walking fields and estimating damage by eye: slow,
+damaged grass due to **winter kill,** caused by ice encasement, prolonged snow cover, or fungal
+snow moulds. Currently it is assessed generally by walking fields and estimating damage by eye: slow,
 subjective, and hard to scale across many hectares.
 
-This project (**CyberGrass 2.0, WP2 Activity 2.2**) tests whether a **low-cost consumer drone**
+This project under **CyberGrass 2.0, WP2 Activity 2.2**) tests whether a **low-cost consumer drone**
 plus a **deep learning model** can do this automatically instead. A UAV flies standard RGB
-(colour photo) missions over a field, and a trained U-Net model classifies every pixel as
-*green (healthy)* or *non-green (potential winter kill)* — producing a map and a percentage
-figure in seconds, repeatable across the whole spring growing season.
+(colour imagery) missions over a field, and a trained U-Net model classifies every pixel as
+*green (healthy)* or *non-green (potential winter kill)*, producing a map and a percentage
+figure, repeatable across the whole spring growing season.
 
-**Important caveat:** "non-green" from RGB imagery alone can mean winter-killed grass, but
+**Important caveat:** "non-green" from RGB imagery alone may mean winter-killed grass, but
 can also mean bare soil, standing water, or shadow. That is why we call it *potential* winter
-kill throughout — it is a strong, validated proxy (see **Results → Ring Validation**), not a
+kill throughout as it is a validated proxy (see **Results → Ring Validation**), and not a
 lab-confirmed diagnosis of plant death.
 
 Use the sidebar to explore: **Field Viewer** (raw imagery), **DL Pipeline** (how the model
@@ -525,23 +525,23 @@ elif page == "Field Viewer":
     st.title("Field Viewer: RGB Imagery & Spectral Indices")
     st.markdown(
         "Select field, altitude and date to view the RGB mosaic and "
-        "any spectral index map.  \n"
-        "NDVI · GNDVI · NDRE · OSAVI = **multispectral sensor** bands.  "
-        "VARI · ExG = **RGB-derived** indices.")
+        "any spectral index map via Viewer Filters on the left sidebar.  \n"
+        "NDVI, GNDVI, NDRE, OSAVI = **multispectral sensor** bands.  "
+        "VARI & ExG = **RGB-derived** indices.")
 
-    with st.expander("ℹ️ How to read this page"):
+    with st.expander("What does this page convey?"):
         st.markdown("""
-- **RGB Mosaic**: the raw drone photo of the field, stitched into one image and cropped to
+- **RGB Mosaic**: The raw drone photo of the field, stitched into one image and cropped to
 the field boundary. This is what the model sees as input.
-- **Spectral Index map**: a colour-coded "vegetation health" layer computed from the
+- **Spectral Index map**: A colour-coded "vegetation health" layer computed from the
 imagery. Indices marked *RGB* (VARI, ExG) come from the same consumer drone photo used
 for the U-Net model; indices marked *Multispectral* (NDVI, GNDVI, NDRE, OSAVI) come from
 a **separate, supplementary multispectral sensor** used for cross-checking, not part of the
 main low-cost pipeline (see WP3 exploratory findings under **DL Pipeline**).
-- **Green % / Non-Green %**: the U-Net model's live classification for the selected date —
-this is the core project output. Non-green is reported as *potential* winter kill, since bare
+- **Green % / Non-Green %**: The U-Net model's classification for the selected date, 
+is the core project output. Non-green is reported as *potential* winter kill, since bare
 soil, water and shadow can also appear non-green in RGB.
-- **Temporal Trend** (below): tracks the selected index over the whole season, so you can
+- **Temporal Trend** (below): Tracks the selected index over the whole season, so you can
 see whether a field is greening up (recovering) or staying damaged.
 """)
 
@@ -582,9 +582,9 @@ see whether a field is greening up (recovering) or staying damaged.
             "site.** Its non-green zones were deliberately created via herbicide application "
             "to test the pipeline, not caused by winter damage. As a result, EXP1 does **not** "
             "show the typical monotonic greening/recovery pattern seen in the natural fields "
-            "(F12, EXP2, F17, F17B, F21) — non-green areas here may persist by design rather "
+            "(F12, EXP2, F17, F17B, F21) as non-green areas here may persist by design rather "
             "than reflect real damage or recovery. Treat EXP1 imagery and indices as a "
-            "pipeline-validation case, not a winter kill case.")
+            "pipeline-validation case, not a potential winter kill case.")
 
     col_rgb, col_idx = st.columns(2)
     rgb_path = rgb_lookup.get((sel_field, sel_alt, sel_date))
@@ -710,7 +710,7 @@ elif page == "DL Pipeline":
     st.title("Deep Learning Pipeline")
     st.markdown(
         "How a drone photo becomes a green / potential-winter-kill map. "
-        "This page documents the model itself — for results and accuracy, see the "
+        "This page documents the model itself and for results and accuracy, see the "
         "**Results** page.")
 
     tab1, tab2, tab3 = st.tabs([
@@ -720,14 +720,17 @@ elif page == "DL Pipeline":
 
     with tab1:
         st.markdown("""
-**In plain terms:** U-Net is a type of neural network built for image segmentation — it
+In plain terms, U-Net is a type of neural network built for image segmentation. It
 labels *every pixel* of an image, rather than just tagging the whole photo. Here it looks at
 a 128×128-pixel patch (tile) of drone imagery and decides, pixel by pixel, whether that
 patch of grass is green (healthy) or non-green (potential winter kill). It was trained on
-**336 tiles that a human manually annotated** using SAM-2-assisted annotation software,
-then generalised to classify the other 1,527+ tiles automatically.
+**336 tiles that was manually annotated** (144 LA + 192 HA) using SAM-2-assisted
+annotation software, drawn from the two training fields (F12 and EXP2). The trained model
+then generalises to classify entire orthomosaics it has never seen labelled examples from-
+applied via sliding-window inference across **all 5 monitored fields** (F12, EXP2, F17,
+F17B, F21).
 
-Two separate models were trained — one for each flight altitude (**LA** and **HA**) —
+Two separate models were trained, one for each flight altitude (**LA** and **HA**)
 since image detail differs enough between them that a single model underperforms on both.
 """)
         c1, c2 = st.columns(2)
@@ -918,19 +921,19 @@ elif page == "Results":
     # ── Tab 2: Ring Validation ─────────────────────────────────────────────
     with tab2:
         st.subheader("Ring Plot Validation: All 5 Fields")
-        with st.expander("ℹ️ What is a ring plot, and why validate this way?"):
+        with st.expander("What is a ring plot and why validate this way?"):
             st.markdown("""
-A **ring plot** is a physical ground-truth check: a 70 cm hoop is placed at a known GPS
-location in the field, and a human visually estimates what % of the grass inside the hoop is
+A **ring plot** is a physical ground-truth check: a hoop of 70 cm is placed at multiple
+location in the field and GPS location recorded, and a person visually estimates what % of the grass inside the hoop is
 non-green/damaged, bucketed into one of 4 classes (0–25%, 26–50%, 51–75%, 76–100%).
-That human estimate is then compared against what the drone + U-Net model predicted for
+That person's visual estimate is then compared against what the drone + U-Net model predicted for
 the same GPS location on the same date.
 
-**R²** tells you how well the model's predictions track the human ring estimates across many
+**R²** tells us how well the model's predictions track the human ring estimates across many
 ring locations (closer to 1.0 = better agreement). **Adj** (adjacent-class agreement) is a more
 forgiving check: did the model land within one damage class of the human estimate, even if
 not an exact match. This is the main evidence that "potential winter kill" from the model
-corresponds to real, human-observable field damage — not just an image artefact.
+corresponds to real, human-observable field damage and not just an image artefact.
 """)
         st.markdown(
             "**4-class Equal Interval** scheme: 0-25% · 26-50% · 51-75% · 76-100%  \n"
@@ -1009,11 +1012,11 @@ corresponds to real, human-observable field damage — not just an image artefac
         st.markdown(
             "This is the practical, farmer-facing output of the whole pipeline: instead of a "
             "single snapshot, each zone of a field is classified by how *persistently* it "
-            "stayed non-green across the whole spring — turning repeat drone flights into "
+            "stayed non-green across the whole spring, turning repeat drone flights into "
             "an actionable reseeding decision map.")
         st.markdown(
             "🔴 **High Priority**: non-green on ≥ 2/3 of assessment dates  \n"
-            "🟠 **Monitor**: non-green on 1/3–2/3 of dates  \n"
+            "🟠 **Monitor**: non-green on 1/3 - 2/3 of dates  \n"
             "🟢 **Recovered**: non-green on < 1/3 of dates")
         st.caption(
             "A patch that is only briefly non-green early in spring likely just recovered "
