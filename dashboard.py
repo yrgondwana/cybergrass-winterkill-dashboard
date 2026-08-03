@@ -210,7 +210,7 @@ damaged grass due to **winter kill,** caused by ice encasement, prolonged snow c
 snow moulds. Currently it is assessed generally by walking fields and estimating damage by eye: slow,
 subjective, and hard to scale across many hectares.
 
-This activity under **CyberGrass 2.0 project**) tests whether a **low-cost consumer drone**
+This activity under **CyberGrass 2.0 project** tests whether a **low-cost consumer drone**
 plus a **deep learning model** can do this automatically instead. A UAV flies standard RGB
 (colour imagery) missions over a field, and a trained U-Net model classifies every pixel as
 *green (healthy)* or *non-green (potential winter kill)*, producing a map and a percentage
