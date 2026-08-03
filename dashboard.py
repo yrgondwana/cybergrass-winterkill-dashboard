@@ -218,8 +218,7 @@ figure, repeatable across the whole spring growing season.
 
 **Important caveat:** "non-green" from RGB imagery alone may mean winter-killed grass, but
 can also mean bare soil, standing water, or shadow. That is why we call it *potential* winter
-kill throughout as it is a validated proxy (see **Results → Ring Validation**), and not a
-lab-confirmed diagnosis of plant death.
+kill throughout as it is a validated proxy (see **Results → Ring Validation**).
 
 Use the sidebar to explore: **Field Viewer** (raw imagery), **DL Pipeline** (how the model
 works), **Results** (how well it performs, and where recovery is worst).
