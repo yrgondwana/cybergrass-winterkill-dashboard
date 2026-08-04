@@ -177,7 +177,7 @@ st.sidebar.markdown("### CyberGrass 2.0 (Interreg Northern Periphery & Arctic)")
 st.sidebar.markdown("Work Package 2: Complementing forage scouting with low-cost drone technology  \n"
                     "  \n"
                     "Activity 2.2: Forage Winter Kill Assessment  \n"
-                    "  \n"
+                    "  \n")
 st.sidebar.markdown("##Erasmus+ Traineeship-cum-Internship  \n"
                     "  \n"
                     "Author: \n" 
