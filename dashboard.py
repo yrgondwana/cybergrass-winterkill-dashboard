@@ -173,15 +173,19 @@ try:
 except Exception:
     st.sidebar.markdown("**SLU**")
 
-st.sidebar.markdown("## CyberGrass 2.0 (Interreg Northern Periphery & Arctic)")
+st.sidebar.markdown("### CyberGrass 2.0 (Interreg Northern Periphery & Arctic)")
 st.sidebar.markdown("Work Package 2: Complementing forage scouting with low-cost drone technology  \n"
                     "  \n"
                     "Activity 2.2: Forage Winter Kill Assessment  \n"
                     "  \n"
+                    "  \n"
                     "Erasmus+ Traineeship-cum-Internship  \n"
                     "  \n"
-                    "Author: Yatharth Ratan Gondwana \n"
-                    "Supervisor: Dr. Julianne de Castro Oliveira \n") 
+                    "  \n"
+                    "#Author: \n" 
+                    "Yatharth Ratan Gondwana \n"
+                    "#Supervisor: \n" 
+                    "Dr. Julianne de Castro Oliveira \n") 
 
 
 st.sidebar.divider()
