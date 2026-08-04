@@ -16,7 +16,7 @@ import json, math
 ASSET_DIR = Path(__file__).parent / "13_dashboard_assets"
 
 st.set_page_config(
-    page_title="CyberGrass 2.0: Winter Kill Dashboard",
+    page_title="CyberGrass 2.0: Potential Winter Kill Dashboard",
     page_icon="🌿",
     layout="wide",
     initial_sidebar_state="expanded")
@@ -173,12 +173,14 @@ try:
 except Exception:
     st.sidebar.markdown("**SLU**")
 
-st.sidebar.markdown("# CyberGrass 2.0")
+st.sidebar.markdown("## CyberGrass 2.0 (Interreg Northern Periphery & Arctic)")
 st.sidebar.markdown("Work Package 2: Complementing forage scouting with low-cost drone technology  \n"
                     "  \n"
                     "Activity 2.2: Forage Winter Kill Assessment  \n"
                     "  \n"
-                    "Erasmus+ Traineeship-cum-Internship  \n") 
+                    "Erasmus+ Traineeship-cum-Internship  \n"
+                    "  \n"
+                    "Authors: Yatharth Ratan Gondwana, Julianne de Castro Oliveira \n") 
 
 
 st.sidebar.divider()
