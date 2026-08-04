@@ -203,7 +203,7 @@ if page == "Overview":
     # ── What is this? ────────────────────────────────────────────────────
     with st.container(border=True):
         st.markdown("""
-##### What am I looking at?
+##### Background
 
 Perennial forage leys in the Nordic region often emerge from winter with patches of dead or
 damaged grass due to **winter kill,** caused by ice encasement, prolonged snow cover, or fungal
@@ -493,7 +493,7 @@ works), **Results** (how well it performs, and where recovery is worst).
     # ── Pipeline summary ───────────────────────────────────────────────────
     st.subheader("🔄 Pipeline Overview")
     st.caption(
-        "From raw drone flight to a validated damage map, in seven steps — "
+        "From raw drone flight to a validated damage map, in seven steps- "
         "detailed further under **DL Pipeline** and **Results**.")
     st.markdown("""
 | Step | Description | Output |
@@ -924,7 +924,7 @@ elif page == "Results":
             st.markdown("""
 A **ring plot** is a physical ground-truth check: a hoop of 70 cm is placed at multiple
 location in the field and GPS location recorded, and a person visually estimates what % of the grass inside the hoop is
-non-green/damaged, bucketed into one of 4 classes (0–25%, 26–50%, 51–75%, 76–100%).
+non-green/damaged, bucketed into one of 4 classes (0-25%, 26-50%, 51-75%, 76-100%).
 That person's visual estimate is then compared against what the drone + U-Net model predicted for
 the same GPS location on the same date.
 
