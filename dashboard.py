@@ -210,7 +210,7 @@ if page == "Overview":
         st.markdown("""
 ##### Background
 
-Perennial forage leys in the Nordic region often emerge from winter with patches of dead or
+Forage leys in the Nordic region often emerge from winter with patches of dead or
 damaged grass due to **winter kill,** caused by ice encasement, prolonged snow cover, or fungal
 snow moulds. Currently it is assessed generally by walking fields and estimating damage by eye: slow,
 subjective, and hard to scale across many hectares.
