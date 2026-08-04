@@ -178,12 +178,12 @@ st.sidebar.markdown("Work Package 2: Complementing forage scouting with low-cost
                     "  \n"
                     "Activity 2.2: Forage Winter Kill Assessment  \n"
                     "  \n")
-st.sidebar.markdown("##Erasmus+ Traineeship-cum-Internship  \n"
+st.sidebar.markdown("Erasmus+ Traineeship-cum-Internship  \n"
                     "  \n"
                     "Author: \n" 
                     "Yatharth Ratan Gondwana \n"
                     "Supervisor: \n" 
-                    "Dr. Julianne de Castro Oliveira. \n") 
+                    "Dr. Julianne de Castro Oliveira \n") 
 
 
 st.sidebar.divider()
