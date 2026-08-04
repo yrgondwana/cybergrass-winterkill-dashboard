@@ -183,7 +183,7 @@ st.sidebar.markdown("##Erasmus+ Traineeship-cum-Internship  \n"
                     "Author: \n" 
                     "Yatharth Ratan Gondwana \n"
                     "Supervisor: \n" 
-                    "Dr. Julianne de Castro Oliveira \n") 
+                    "Dr. Julianne de Castro Oliveira. \n") 
 
 
 st.sidebar.divider()
