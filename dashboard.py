@@ -431,7 +431,7 @@ works), **Results** (how well it performs, and where recovery is worst).
             "(computed from LA pixel counts × GSD).")
 
 # ── Mission timeline (all 62 flights) ──────────────────────────────────
-    st.subheader("📅 Mission Timeline: All 62 UAV Flights")
+    st.subheader("📅 Mission Timeline: 62 UAV Flights between Late April and Early June 2025")
 
     if df_missions.empty:
         if not df_wk.empty:
