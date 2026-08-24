@@ -159,7 +159,7 @@ def show_img(rel, caption=""):
             matches = list(ASSET_DIR.rglob(fname))
             p = matches[0] if matches else p
     if p.exists():
-        st.image(Image.open(p), caption=caption, use_column_width=True)
+        st.image(Image.open(p), caption=caption, use_container_width=True)
     else:
         st.warning(f"Image not found: {Path(rel).name}")
 
@@ -998,7 +998,7 @@ corresponds to real, human-observable field damage and not just an image artefac
         sel_plot = st.selectbox("Select plot", list(PLOT_CATALOG.keys()))
         found = find_plot(PLOT_CATALOG[sel_plot])
         if found:
-            st.image(Image.open(found), use_column_width=True)
+            st.image(Image.open(found), use_container_width=True)
         else:
             # Fallback: let user browse all available plots in the folder
             val_dir = ASSET_DIR / "validation_plots"
@@ -1007,7 +1007,7 @@ corresponds to real, human-observable field damage and not just an image artefac
                 st.info(f"Named plot not found. Choose from available files:")
                 fb = st.selectbox("Available plots", [p.name for p in avail],
                                   key="fb_plot")
-                st.image(Image.open(val_dir/fb), use_column_width=True)
+                st.image(Image.open(val_dir/fb), use_container_width=True)
             else:
                 st.info("No validation plot PNGs found in validation_plots/.")
 
@@ -1040,7 +1040,7 @@ corresponds to real, human-observable field damage and not just an image artefac
                     "Select map figure",
                     [p.name for p in res_imgs],
                     format_func=lambda n: MAP_LABELS.get(n, n))
-                st.image(Image.open(res_dir/sel_rm), use_column_width=True)
+                st.image(Image.open(res_dir/sel_rm), use_container_width=True)
                 st.caption(
                     "Green = Recovered · Orange = Monitor · Red = High Priority.  "
                     "Full-resolution GeoTIFFs (SWEREF99/TM) in reseeding_maps\\ folder.")
