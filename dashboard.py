@@ -192,7 +192,8 @@ page = st.sidebar.radio("Navigate", [
     "Overview",
     "Field Viewer",
     "DL Pipeline",
-    "Results"])
+    "Results",
+    "Findings & Discussion"])
 
 # ══════════════════════════════════════════════════════════════════════════
 # PAGE 1 — OVERVIEW
@@ -1103,3 +1104,147 @@ corresponds to real, human-observable field damage and not just an image artefac
                 st.plotly_chart(fig_bar, use_container_width=True)
         else:
             st.info("reseeding_summary.csv not found.")
+
+
+# ══════════════════════════════════════════════════════════════════════════
+# PAGE 5 — FINDINGS & DISCUSSION
+# ══════════════════════════════════════════════════════════════════════════
+elif page == "Findings & Discussion":
+    st.title("Findings, Discussion & Conclusion")
+    st.markdown(
+        "What the results actually mean, where the pipeline can be trusted, "
+        "where it can't yet, and what comes next. The **Results** page shows "
+        "the evidence; this page interprets it.")
+
+    # ── Key Findings ─────────────────────────────────────────────────────
+    st.subheader("🔑 Key Findings")
+
+    with st.container(border=True):
+        st.markdown("""
+**1. The model generalises - it didn't just memorise the training fields.**
+Trained only on F12 and EXP2, the model was then applied to three fields it had
+never seen labelled examples from (F17, F21, EXP1). F17/LA reached **R² = 0.825**,
+higher than either training field, and EXP1 - a structurally different,
+non-natural damage pattern (herbicide strip) - was still classified significantly
+at both altitudes. This is the strongest evidence that the model learned a
+genuine, field-invariant definition of "green" rather than overfitting to two
+specific fields.
+
+**2. HA is a reliable, lower-cost substitute for LA - but only above a field-size
+threshold.**
+Across four of five fields, the high-altitude (HA) model's ring-validation bias
+stayed within **±4%** of ground truth, consistently close to zero. The one
+exception, EXP2 (+12.3%), is explained by field size: at under 1 million HA
+pixels, boundary-pixel effects dominate the estimate. For fields above roughly
+49 million HA pixels, HA is essentially as trustworthy as LA, at a fraction of
+the flight time and data volume.
+
+**3. LA vs HA is not an either/or choice - it depends on season and field size.**
+| Season / field | Recommended altitude | Why |
+|---|---|---|
+| Early season (April – early May) | **LA** | HA cannot resolve sub-tiller greening; overestimates potential WK by 10–20 pp |
+| Mid-to-late season (mid-May onward) | **HA** | Near-zero bias; LA and HA converge; HA is cheaper and simpler to fly |
+| Small fields (≲ 5 ha) | **LA** | HA boundary-pixel effects become dominant, producing irregular estimates |
+
+**4. "Potential" winter kill is a validated proxy, not a direct measurement -
+and that qualifier matters.**
+Ring-plot validation against human ground-truth observations gives R² from
+0.331 to 0.825 across fields, with 4 of 5 field/altitude combinations
+statistically significant at p < 0.05. This confirms the RGB + U-Net pipeline
+tracks real, human-observable field damage — but "non-green" can also mean
+bare soil, standing water, or shadow, which is why the dashboard never claims
+to measure winter kill directly.
+""")
+
+    # ── Discussion ──────────────────────────────────────────────────────────
+    st.subheader("💬 Discussion")
+
+    disc_tab1, disc_tab2 = st.tabs(["Interpreting the Results", "Limitations"])
+
+    with disc_tab1:
+        st.markdown("""
+**Why cross-field generalization matters here.** A model trained on two fields
+that then performs *at or above* its training-field accuracy on three unseen
+fields is a meaningfully stronger result than high accuracy on held-out tiles
+from the same fields it was trained on. It suggests the model is responding to
+the actual visual signal of green vs. non-green canopy, rather than to
+field-specific artefacts (soil colour, lighting conditions, sensor quirks)
+that a model can otherwise latch onto.
+
+**The spring plateau is a genuine ceiling on the current RGB-only approach,
+not a tuning problem.** Across all fields, the green-fraction time series
+shows a clear plateau through roughly mid-April to mid-May: recovering canopy
+and fully healthy canopy are spectrally difficult to tell apart in visible
+light alone. This isn't something more training data or a better-tuned U-Net
+would fix on its own - it's a missing-information problem. The WP3 exploratory
+work (see **DL Pipeline**) identifies the Red Edge and near-infrared bands as
+the most direct way to close this gap, since both are physically linked to
+chlorophyll content and canopy structure in ways visible-band imagery cannot
+capture.
+
+**What the reseeding maps are, and aren't.** The reseeding priority
+classification (Results → Reseeding Maps) turns repeat flights into a
+persistence-based decision aid — a zone flagged High Priority stayed
+non-green across most of the season, not just on one unlucky flight date.
+That said, maps built on only three assessment dates (e.g. F21/HA) are
+flagged with caution in this dashboard for a reason: with few dates, an
+early-season patch that recovers can still get counted toward "High Priority"
+threshold. More assessment dates, not a different model, is what resolves
+this.
+""")
+
+    with disc_tab2:
+        st.markdown("""
+Several limitations affect how confidently these results can be generalised,
+and are stated here directly rather than left implicit:
+
+- **Ring validation sample sizes are modest** (n = 10-25 per field/altitude
+  combination). EXP1 and the new-field results in particular would benefit
+  from additional assessment dates before being treated as fully settled.
+- **F21/LA is not statistically significant** (p = 0.082, n = 10) and is
+  **excluded** from validated LA outputs for that field — a result this
+  dashboard does not report as confirmed.
+- **Visual ground-truth estimates carry their own uncertainty**, roughly
+  10–20% between observers. LA MAE values of 15-25% are only marginally above
+  that threshold, meaning some of the apparent model error may actually be
+  human measurement noise.
+- **Training covers two fields and one growing season.** The cross-field
+  generalisation result (Finding 1, above) is genuinely encouraging, but
+  validating across a full spring–summer season and additional geographic
+  regions would make that claim considerably stronger.
+- **F21 HA reseeding maps require caution**: with only 3 assessment dates and
+  a 2/3 High-Priority threshold, two heavily-damaged early dates can
+  structurally inflate the High-Priority zone even where later recovery
+  occurred.
+
+None of these limitations undermine the core result — that a low-cost RGB
+drone and a lightweight U-Net can produce a validated, field-invariant
+proxy for winter kill - but they do mark where the evidence is strong versus
+where it is still preliminary.
+""")
+
+    # ── Conclusion ────────────────────────────────────────────────────────
+    st.subheader("✅ Conclusion")
+    with st.container(border=True):
+        st.markdown("""
+This project demonstrates that a **consumer-grade RGB drone paired with a
+lightweight U-Net segmentation model** is a viable, validated proxy for
+assessing potential winter kill in Nordic forage leys - at a fraction of the
+cost and labour of manual field walking. The model generalises to fields it
+was never trained on, offers a clear, data-backed answer on when a cheaper
+high-altitude flight is "good enough" versus when low-altitude detail is
+needed, and produces a reseeding priority map that translates pixel-level
+predictions into an actionable, farmer-facing recommendation.
+
+The main constraint on the current RGB-only pipeline is the early-spring
+plateau, where recovering and healthy canopy are hard to separate in visible
+light. The natural next step, explored preliminarily under **WP3** (see
+**DL Pipeline**), is extending the input pipeline with Red Edge and
+near-infrared bands - the spectral regions most directly tied to chlorophyll
+recovery — to resolve this gap without discarding the validated RGB baseline
+established here.
+""")
+    st.caption(
+        "For the full methodology, complete validation tables, and WP3 "
+        "exploratory sensor comparison, see the accompanying internship "
+        "report: *Final Report — Internship, June 2026, Y. R. Gondwana.*")
