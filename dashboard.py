@@ -1123,8 +1123,9 @@ elif page == "Findings & Discussion":
         st.markdown("""
 **1. The model generalises - it didn't just memorise the training fields.**
 Trained only on F12 and EXP2, the model was then applied to three fields it had
-never seen labelled examples from (F17, F21, EXP1). F17/LA reached **R² = 0.825**,
-higher than either training field, and EXP1 - a structurally different,
+never seen labelled examples from F17, F21, & EXP1 fields. All three produced 
+statistically significant results on atleast one altitude, and F17/LA reached 
+**R² = 0.825**, higher than either training field, and EXP1 - a structurally different,
 non-natural damage pattern (herbicide strip) - was still classified significantly
 at both altitudes. This is the strongest evidence that the model learned a
 genuine, field-invariant definition of "green" rather than overfitting to two
