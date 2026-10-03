@@ -44,7 +44,7 @@ def load_wk():
 
 @st.cache_data
 def load_missions():
-    """All 62 missions for timeline — from missions_all.csv."""
+    """All 62 missions for timeline - from missions_all.csv."""
     df = load_meta("missions_all.csv")
     if df.empty:
         return pd.DataFrame()
