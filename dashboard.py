@@ -1142,7 +1142,7 @@ the flight time and data volume.
 **3. LA vs HA is not an either/or choice - it depends on season and field size.**
 | Season / field | Recommended altitude | Why |
 |---|---|---|
-| Early season (April – early May) | **LA** | HA cannot resolve sub-tiller greening; overestimates potential WK by 10–20 pp |
+| Early season (April – early May) | **LA** | HA cannot resolve sub-tiller greening; overestimates potential WK by 10-20 pp |
 | Mid-to-late season (mid-May onward) | **HA** | Near-zero bias; LA and HA converge; HA is cheaper and simpler to fly |
 | Small fields (≲ 5 ha) | **LA** | HA boundary-pixel effects become dominant, producing irregular estimates |
 
@@ -1151,7 +1151,7 @@ and that qualifier matters.**
 Ring-plot validation against human ground-truth observations gives R² from
 0.331 to 0.825 across fields, with 4 of 5 field/altitude combinations
 statistically significant at p < 0.05. This confirms the RGB + U-Net pipeline
-tracks real, human-observable field damage — but "non-green" can also mean
+tracks real, human-observable field damage but "non-green" can also mean
 bare soil, standing water, or shadow, which is why the dashboard never claims
 to measure winter kill directly.
 """)
@@ -1184,7 +1184,7 @@ capture.
 
 **What the reseeding maps are, and aren't.** The reseeding priority
 classification (Results → Reseeding Maps) turns repeat flights into a
-persistence-based decision aid — a zone flagged High Priority stayed
+persistence-based decision aid - a zone flagged High Priority stayed
 non-green across most of the season, not just on one unlucky flight date.
 That said, maps built on only three assessment dates (e.g. F21/HA) are
 flagged with caution in this dashboard for a reason: with few dates, an
@@ -1202,7 +1202,7 @@ and are stated here directly rather than left implicit:
   combination). EXP1 and the new-field results in particular would benefit
   from additional assessment dates before being treated as fully settled.
 - **F21/LA is not statistically significant** (p = 0.082, n = 10) and is
-  **excluded** from validated LA outputs for that field — a result this
+  **excluded** from validated LA outputs for that field - a result this
   dashboard does not report as confirmed.
 - **Visual ground-truth estimates carry their own uncertainty**, roughly
   10–20% between observers. LA MAE values of 15-25% are only marginally above
@@ -1217,7 +1217,7 @@ and are stated here directly rather than left implicit:
   structurally inflate the High-Priority zone even where later recovery
   occurred.
 
-None of these limitations undermine the core result — that a low-cost RGB
+None of these limitations undermine the core result - that a low-cost RGB
 drone and a lightweight U-Net can produce a validated, field-invariant
 proxy for winter kill - but they do mark where the evidence is strong versus
 where it is still preliminary.
@@ -1241,10 +1241,6 @@ plateau, where recovering and healthy canopy are hard to separate in visible
 light. The natural next step, explored preliminarily under **WP3** (see
 **DL Pipeline**), is extending the input pipeline with Red Edge and
 near-infrared bands - the spectral regions most directly tied to chlorophyll
-recovery — to resolve this gap without discarding the validated RGB baseline
+recovery - to resolve this gap without discarding the validated RGB baseline
 established here.
 """)
-    st.caption(
-        "For the full methodology, complete validation tables, and WP3 "
-        "exploratory sensor comparison, see the accompanying internship "
-        "report: *Final Report — Internship, June 2026, Y. R. Gondwana.*")
