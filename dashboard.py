@@ -227,7 +227,7 @@ can also mean bare soil, standing water, or shadow. That is why we call it *pote
 kill throughout as it is a validated proxy (see **Results → Ring Validation**).
 
 Use the sidebar to explore: **Field Viewer** (raw imagery), **DL Pipeline** (how the model
-works), **Results** (how well it performs, and where recovery is worst).
+works), **Results** (how well it performs).
 """)
 
     # ── Metrics row ────────────────────────────────────────────────────────
